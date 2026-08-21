@@ -1,8 +1,7 @@
 # Final Project
 
 This is the clean implementation workspace for **Experimental Analysis of
-DAgger**, following the supplied project plan in
-`../Additional Files/main folder/main (1).pdf`.
+DAgger".
 
 Reproducible OCR and CartPole datasets are prepared. The primary rule-expert
 CartPole DAgger experiment and a separate PPO-expert library comparison have
