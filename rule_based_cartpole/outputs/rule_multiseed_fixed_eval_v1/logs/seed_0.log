@@ -1,0 +1,467 @@
+---------------------------------
+| batch_size        | 32        |
+| bc/               |           |
+|    batch          | 0         |
+|    ent_loss       | -0.000693 |
+|    entropy        | 0.693     |
+|    epoch          | 0         |
+|    l2_loss        | 0         |
+|    l2_norm        | 72.5      |
+|    loss           | 0.693     |
+|    neglogp        | 0.693     |
+|    prob_true_act  | 0.5       |
+|    samples_so_far | 32        |
+---------------------------------
+---------------------------------
+| batch_size        | 32        |
+| bc/               |           |
+|    batch          | 0         |
+|    ent_loss       | -0.000403 |
+|    entropy        | 0.403     |
+|    epoch          | 0         |
+|    l2_loss        | 0         |
+|    l2_norm        | 85.4      |
+|    loss           | 0.377     |
+|    neglogp        | 0.377     |
+|    prob_true_act  | 0.732     |
+|    samples_so_far | 32        |
+---------------------------------
+--------------------------------
+| batch_size        | 32       |
+| bc/               |          |
+|    batch          | 0        |
+|    ent_loss       | -0.00028 |
+|    entropy        | 0.28     |
+|    epoch          | 0        |
+|    l2_loss        | 0        |
+|    l2_norm        | 98.4     |
+|    loss           | 0.246    |
+|    neglogp        | 0.246    |
+|    prob_true_act  | 0.818    |
+|    samples_so_far | 32       |
+--------------------------------
+---------------------------------
+| batch_size        | 32        |
+| bc/               |           |
+|    batch          | 0         |
+|    ent_loss       | -0.000334 |
+|    entropy        | 0.334     |
+|    epoch          | 0         |
+|    l2_loss        | 0         |
+|    l2_norm        | 130       |
+|    loss           | 0.281     |
+|    neglogp        | 0.282     |
+|    prob_true_act  | 0.789     |
+|    samples_so_far | 32        |
+---------------------------------
+---------------------------------
+| batch_size        | 32        |
+| bc/               |           |
+|    batch          | 500       |
+|    ent_loss       | -0.000178 |
+|    entropy        | 0.178     |
+|    epoch          | 3         |
+|    l2_loss        | 0         |
+|    l2_norm        | 180       |
+|    loss           | 0.188     |
+|    neglogp        | 0.188     |
+|    prob_true_act  | 0.874     |
+|    samples_so_far | 16032     |
+---------------------------------
+---------------------------------
+| batch_size        | 32        |
+| bc/               |           |
+|    batch          | 0         |
+|    ent_loss       | -0.000252 |
+|    entropy        | 0.252     |
+|    epoch          | 0         |
+|    l2_loss        | 0         |
+|    l2_norm        | 197       |
+|    loss           | 0.139     |
+|    neglogp        | 0.139     |
+|    prob_true_act  | 0.884     |
+|    samples_so_far | 32        |
+---------------------------------
+---------------------------------
+| batch_size        | 32        |
+| bc/               |           |
+|    batch          | 500       |
+|    ent_loss       | -0.000117 |
+|    entropy        | 0.117     |
+|    epoch          | 2         |
+|    l2_loss        | 0         |
+|    l2_norm        | 244       |
+|    loss           | 0.0484    |
+|    neglogp        | 0.0486    |
+|    prob_true_act  | 0.957     |
+|    samples_so_far | 16032     |
+---------------------------------
+---------------------------------
+| batch_size        | 32        |
+| bc/               |           |
+|    batch          | 0         |
+|    ent_loss       | -0.000113 |
+|    entropy        | 0.113     |
+|    epoch          | 0         |
+|    l2_loss        | 0         |
+|    l2_norm        | 273       |
+|    loss           | 0.0488    |
+|    neglogp        | 0.0489    |
+|    prob_true_act  | 0.957     |
+|    samples_so_far | 32        |
+---------------------------------
+---------------------------------
+| batch_size        | 32        |
+| bc/               |           |
+|    batch          | 500       |
+|    ent_loss       | -7.25e-05 |
+|    entropy        | 0.0725    |
+|    epoch          | 1         |
+|    l2_loss        | 0         |
+|    l2_norm        | 312       |
+|    loss           | 0.0379    |
+|    neglogp        | 0.038     |
+|    prob_true_act  | 0.968     |
+|    samples_so_far | 16032     |
+---------------------------------
+---------------------------------
+| batch_size        | 32        |
+| bc/               |           |
+|    batch          | 1000      |
+|    ent_loss       | -5.56e-05 |
+|    entropy        | 0.0556    |
+|    epoch          | 3         |
+|    l2_loss        | 0         |
+|    l2_norm        | 345       |
+|    loss           | 0.221     |
+|    neglogp        | 0.221     |
+|    prob_true_act  | 0.921     |
+|    samples_so_far | 32032     |
+---------------------------------
+{
+  "dagger": {
+    "actual_total_labels": 8326,
+    "beta_decay": 0.5,
+    "beta_schedule": "exponential",
+    "dense_expert_labels": true,
+    "evaluation_episode_rewards": [
+      500.0,
+      500.0,
+      500.0,
+      500.0,
+      500.0,
+      500.0,
+      500.0,
+      500.0,
+      500.0,
+      500.0,
+      500.0,
+      500.0,
+      500.0,
+      500.0,
+      500.0,
+      500.0,
+      500.0,
+      500.0,
+      500.0,
+      500.0
+    ],
+    "final_policy_state_dict": "checkpoints/final_policy_state_dict.pt",
+    "mean_reward": 500.0,
+    "minimum_round_episodes": 3,
+    "minimum_round_timesteps": 500,
+    "reward_standard_deviation": 0.0,
+    "round_log": [
+      {
+        "beta": 1.0,
+        "cumulative_dagger_labels": 1500,
+        "data_source": "generated_rule_expert_csv_episodes_0_to_2",
+        "evaluation_episodes": 20,
+        "evaluation_seed": 40000,
+        "learner_episode_returns": [
+          500.0,
+          96.0,
+          213.0,
+          500.0,
+          73.0,
+          500.0,
+          91.0,
+          500.0,
+          72.0,
+          59.0,
+          110.0,
+          500.0,
+          254.0,
+          151.0,
+          63.0,
+          500.0,
+          114.0,
+          79.0,
+          63.0,
+          63.0
+        ],
+        "learner_expert_disagreement_rate_before_update": null,
+        "learner_mean_return": 225.05,
+        "learner_return_std": 186.3425541844911,
+        "realized_expert_control_fraction": 1.0,
+        "round": 0,
+        "round_episode_count": 3,
+        "round_timesteps": 1500
+      },
+      {
+        "beta": 0.5,
+        "cumulative_dagger_labels": 2326,
+        "data_source": "online_mixed_policy_rule_expert_labels",
+        "evaluation_episodes": 20,
+        "evaluation_seed": 40000,
+        "learner_episode_returns": [
+          500.0,
+          500.0,
+          500.0,
+          500.0,
+          500.0,
+          500.0,
+          500.0,
+          500.0,
+          500.0,
+          377.0,
+          500.0,
+          500.0,
+          500.0,
+          500.0,
+          318.0,
+          500.0,
+          500.0,
+          500.0,
+          500.0,
+          500.0
+        ],
+        "learner_expert_disagreement_rate_before_update": 0.2566585956416465,
+        "learner_mean_return": 484.75,
+        "learner_return_std": 46.69140713236216,
+        "realized_expert_control_fraction": 0.48062953995157387,
+        "round": 1,
+        "round_episode_count": 3,
+        "round_timesteps": 826
+      },
+      {
+        "beta": 0.25,
+        "cumulative_dagger_labels": 3826,
+        "data_source": "online_mixed_policy_rule_expert_labels",
+        "evaluation_episodes": 20,
+        "evaluation_seed": 40000,
+        "learner_episode_returns": [
+          500.0,
+          500.0,
+          500.0,
+          500.0,
+          500.0,
+          500.0,
+          500.0,
+          500.0,
+          500.0,
+          500.0,
+          500.0,
+          500.0,
+          500.0,
+          500.0,
+          500.0,
+          500.0,
+          500.0,
+          500.0,
+          500.0,
+          500.0
+        ],
+        "learner_expert_disagreement_rate_before_update": 0.154,
+        "learner_mean_return": 500.0,
+        "learner_return_std": 0.0,
+        "realized_expert_control_fraction": 0.266,
+        "round": 2,
+        "round_episode_count": 3,
+        "round_timesteps": 1500
+      },
+      {
+        "beta": 0.125,
+        "cumulative_dagger_labels": 5326,
+        "data_source": "online_mixed_policy_rule_expert_labels",
+        "evaluation_episodes": 20,
+        "evaluation_seed": 40000,
+        "learner_episode_returns": [
+          500.0,
+          500.0,
+          500.0,
+          500.0,
+          500.0,
+          500.0,
+          500.0,
+          500.0,
+          500.0,
+          500.0,
+          500.0,
+          500.0,
+          500.0,
+          500.0,
+          500.0,
+          500.0,
+          500.0,
+          500.0,
+          500.0,
+          500.0
+        ],
+        "learner_expert_disagreement_rate_before_update": 0.08533333333333333,
+        "learner_mean_return": 500.0,
+        "learner_return_std": 0.0,
+        "realized_expert_control_fraction": 0.12066666666666667,
+        "round": 3,
+        "round_episode_count": 3,
+        "round_timesteps": 1500
+      },
+      {
+        "beta": 0.0625,
+        "cumulative_dagger_labels": 6826,
+        "data_source": "online_mixed_policy_rule_expert_labels",
+        "evaluation_episodes": 20,
+        "evaluation_seed": 40000,
+        "learner_episode_returns": [
+          500.0,
+          500.0,
+          500.0,
+          500.0,
+          500.0,
+          500.0,
+          500.0,
+          500.0,
+          500.0,
+          500.0,
+          500.0,
+          500.0,
+          500.0,
+          500.0,
+          500.0,
+          500.0,
+          500.0,
+          500.0,
+          500.0,
+          500.0
+        ],
+        "learner_expert_disagreement_rate_before_update": 0.03333333333333333,
+        "learner_mean_return": 500.0,
+        "learner_return_std": 0.0,
+        "realized_expert_control_fraction": 0.062,
+        "round": 4,
+        "round_episode_count": 3,
+        "round_timesteps": 1500
+      },
+      {
+        "beta": 0.03125,
+        "cumulative_dagger_labels": 8326,
+        "data_source": "online_mixed_policy_rule_expert_labels",
+        "evaluation_episodes": 20,
+        "evaluation_seed": 40000,
+        "learner_episode_returns": [
+          500.0,
+          500.0,
+          500.0,
+          500.0,
+          500.0,
+          500.0,
+          500.0,
+          500.0,
+          500.0,
+          500.0,
+          500.0,
+          500.0,
+          500.0,
+          500.0,
+          500.0,
+          500.0,
+          500.0,
+          500.0,
+          500.0,
+          500.0
+        ],
+        "learner_expert_disagreement_rate_before_update": 0.03933333333333333,
+        "learner_mean_return": 500.0,
+        "learner_return_std": 0.0,
+        "realized_expert_control_fraction": 0.037333333333333336,
+        "round": 5,
+        "round_episode_count": 3,
+        "round_timesteps": 1500
+      }
+    ],
+    "rounds": 6
+  },
+  "derived_seeds": {
+    "dagger_collection": 20000,
+    "dagger_evaluation": 30000,
+    "dagger_round_evaluation": 40000,
+    "expert_evaluation": 10000,
+    "learner_training": 0
+  },
+  "environment": "CartPole-v1",
+  "evaluation_protocol": {
+    "common_final_seed_across_training_seeds": 30000,
+    "common_round_seed_across_rounds_and_training_seeds": 40000,
+    "deterministic_learner_actions": true,
+    "episodes": 20,
+    "no_expert_control_during_evaluation": true
+  },
+  "expert": {
+    "evaluation_episode_rewards": [
+      500.0,
+      500.0,
+      500.0,
+      500.0,
+      500.0,
+      500.0,
+      500.0,
+      500.0,
+      500.0,
+      500.0,
+      500.0,
+      500.0,
+      500.0,
+      500.0,
+      500.0,
+      500.0,
+      500.0,
+      500.0,
+      500.0,
+      500.0
+    ],
+    "formula": "1[theta + 0.6*theta_dot + 0.02*x_dot > 0]",
+    "mean_reward": 500.0,
+    "reward_standard_deviation": 0.0,
+    "type": "deterministic_rule_based"
+  },
+  "initial_dataset": {
+    "available_transitions": 50000,
+    "path": "/home/rakibul/Desktop/rl project/Final Project/datasets/cartpole/cartpole_expert_demonstrations.csv",
+    "selected_episode_ids": [
+      0,
+      1,
+      2
+    ],
+    "selected_transitions": 1500,
+    "selection_reason": "Three complete 500-step episodes match the PPO-library baseline's 1500-label round-0 budget.",
+    "sha256": "d2fb810a58850fe5af3983bccd39e6bb55fb1e591a013b6b7505947d3bd838a7"
+  },
+  "learner": {
+    "batch_size": 32,
+    "epochs_per_round": 4,
+    "implementation": "imitation.algorithms.bc.BC",
+    "learning_rate": 0.001,
+    "optimizer": "Adam",
+    "policy": "FeedForward32Policy with hidden layers [32, 32]",
+    "retention": "all aggregated data"
+  },
+  "seed": 0,
+  "versions": {
+    "gymnasium": "0.29.1",
+    "imitation": "1.0.1",
+    "numpy": "1.26.4",
+    "stable_baselines3": "2.2.1",
+    "torch": "2.2.2+cpu"
+  }
+}
+Persistent run artifacts: /home/rakibul/Desktop/rl project/Final Project/rule_based_cartpole/outputs/rule_multiseed_fixed_eval_v1/runs/seed_0

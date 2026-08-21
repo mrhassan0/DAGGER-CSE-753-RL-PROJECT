@@ -1,0 +1,25 @@
+{
+  "cartpole": {
+    "backend": "gymnasium",
+    "base_seed": 0,
+    "episodes": 100,
+    "file": "cartpole/cartpole_expert_demonstrations.csv",
+    "generator": "cartpole/generate_expert_dataset.py",
+    "metadata": "cartpole/cartpole_expert_demonstrations.metadata.json",
+    "sha256": "d2fb810a58850fe5af3983bccd39e6bb55fb1e591a013b6b7505947d3bd838a7",
+    "task": "CartPole-v1",
+    "transitions": 50000
+  },
+  "ocr": {
+    "classes": 26,
+    "file": "ocr/letter.data",
+    "folds": 10,
+    "rows": 52152,
+    "sha256": "535363d0b7bc34246b1f8731719540f526b6807b12dda5d430d011d160bc7882",
+    "source": "Stanford OCR handwritten-word dataset",
+    "test_folds": [9],
+    "training_folds": [0, 1, 2, 3, 4, 5, 6, 7, 8],
+    "words": 6877
+  },
+  "schema_version": 1
+}

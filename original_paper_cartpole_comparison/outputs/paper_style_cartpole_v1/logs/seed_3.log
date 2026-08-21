@@ -1,0 +1,6439 @@
+Running supervised baseline
+---------------------------------
+| batch_size        | 32        |
+| bc/               |           |
+|    batch          | 0         |
+|    ent_loss       | -0.000693 |
+|    entropy        | 0.693     |
+|    epoch          | 0         |
+|    l2_loss        | 0         |
+|    l2_norm        | 72.5      |
+|    loss           | 0.693     |
+|    neglogp        | 0.693     |
+|    prob_true_act  | 0.5       |
+|    samples_so_far | 32        |
+---------------------------------
+---------------------------------
+| batch_size        | 32        |
+| bc/               |           |
+|    batch          | 0         |
+|    ent_loss       | -0.000602 |
+|    entropy        | 0.602     |
+|    epoch          | 0         |
+|    l2_loss        | 0         |
+|    l2_norm        | 77.7      |
+|    loss           | 0.478     |
+|    neglogp        | 0.479     |
+|    prob_true_act  | 0.638     |
+|    samples_so_far | 32        |
+---------------------------------
+---------------------------------
+| batch_size        | 32        |
+| bc/               |           |
+|    batch          | 0         |
+|    ent_loss       | -0.000433 |
+|    entropy        | 0.433     |
+|    epoch          | 0         |
+|    l2_loss        | 0         |
+|    l2_norm        | 87.4      |
+|    loss           | 0.417     |
+|    neglogp        | 0.418     |
+|    prob_true_act  | 0.699     |
+|    samples_so_far | 32        |
+---------------------------------
+---------------------------------
+| batch_size        | 32        |
+| bc/               |           |
+|    batch          | 0         |
+|    ent_loss       | -0.000391 |
+|    entropy        | 0.391     |
+|    epoch          | 0         |
+|    l2_loss        | 0         |
+|    l2_norm        | 95        |
+|    loss           | 0.374     |
+|    neglogp        | 0.374     |
+|    prob_true_act  | 0.728     |
+|    samples_so_far | 32        |
+---------------------------------
+--------------------------------
+| batch_size        | 32       |
+| bc/               |          |
+|    batch          | 0        |
+|    ent_loss       | -0.00028 |
+|    entropy        | 0.28     |
+|    epoch          | 0        |
+|    l2_loss        | 0        |
+|    l2_norm        | 113      |
+|    loss           | 0.417    |
+|    neglogp        | 0.417    |
+|    prob_true_act  | 0.764    |
+|    samples_so_far | 32       |
+--------------------------------
+---------------------------------
+| batch_size        | 32        |
+| bc/               |           |
+|    batch          | 0         |
+|    ent_loss       | -0.000225 |
+|    entropy        | 0.225     |
+|    epoch          | 0         |
+|    l2_loss        | 0         |
+|    l2_norm        | 147       |
+|    loss           | 0.192     |
+|    neglogp        | 0.192     |
+|    prob_true_act  | 0.857     |
+|    samples_so_far | 32        |
+---------------------------------
+---------------------------------
+| batch_size        | 32        |
+| bc/               |           |
+|    batch          | 0         |
+|    ent_loss       | -0.000168 |
+|    entropy        | 0.168     |
+|    epoch          | 0         |
+|    l2_loss        | 0         |
+|    l2_norm        | 203       |
+|    loss           | 0.0902    |
+|    neglogp        | 0.0903    |
+|    prob_true_act  | 0.924     |
+|    samples_so_far | 32        |
+---------------------------------
+---------------------------------
+| batch_size        | 32        |
+| bc/               |           |
+|    batch          | 0         |
+|    ent_loss       | -0.000201 |
+|    entropy        | 0.201     |
+|    epoch          | 0         |
+|    l2_loss        | 0         |
+|    l2_norm        | 253       |
+|    loss           | 0.127     |
+|    neglogp        | 0.127     |
+|    prob_true_act  | 0.901     |
+|    samples_so_far | 32        |
+---------------------------------
+---------------------------------
+| batch_size        | 32        |
+| bc/               |           |
+|    batch          | 0         |
+|    ent_loss       | -0.000114 |
+|    entropy        | 0.114     |
+|    epoch          | 0         |
+|    l2_loss        | 0         |
+|    l2_norm        | 297       |
+|    loss           | 0.0684    |
+|    neglogp        | 0.0686    |
+|    prob_true_act  | 0.946     |
+|    samples_so_far | 32        |
+---------------------------------
+---------------------------------
+| batch_size        | 32        |
+| bc/               |           |
+|    batch          | 500       |
+|    ent_loss       | -0.000117 |
+|    entropy        | 0.117     |
+|    epoch          | 3         |
+|    l2_loss        | 0         |
+|    l2_norm        | 335       |
+|    loss           | 0.0637    |
+|    neglogp        | 0.0638    |
+|    prob_true_act  | 0.947     |
+|    samples_so_far | 16032     |
+---------------------------------
+---------------------------------
+| batch_size        | 32        |
+| bc/               |           |
+|    batch          | 0         |
+|    ent_loss       | -4.44e-05 |
+|    entropy        | 0.0444    |
+|    epoch          | 0         |
+|    l2_loss        | 0         |
+|    l2_norm        | 339       |
+|    loss           | 0.014     |
+|    neglogp        | 0.014     |
+|    prob_true_act  | 0.987     |
+|    samples_so_far | 32        |
+---------------------------------
+---------------------------------
+| batch_size        | 32        |
+| bc/               |           |
+|    batch          | 500       |
+|    ent_loss       | -4.39e-05 |
+|    entropy        | 0.0439    |
+|    epoch          | 3         |
+|    l2_loss        | 0         |
+|    l2_norm        | 368       |
+|    loss           | 0.0315    |
+|    neglogp        | 0.0315    |
+|    prob_true_act  | 0.977     |
+|    samples_so_far | 16032     |
+---------------------------------
+---------------------------------
+| batch_size        | 32        |
+| bc/               |           |
+|    batch          | 0         |
+|    ent_loss       | -4.56e-05 |
+|    entropy        | 0.0456    |
+|    epoch          | 0         |
+|    l2_loss        | 0         |
+|    l2_norm        | 375       |
+|    loss           | 0.0178    |
+|    neglogp        | 0.0178    |
+|    prob_true_act  | 0.984     |
+|    samples_so_far | 32        |
+---------------------------------
+---------------------------------
+| batch_size        | 32        |
+| bc/               |           |
+|    batch          | 500       |
+|    ent_loss       | -7.09e-05 |
+|    entropy        | 0.0709    |
+|    epoch          | 2         |
+|    l2_loss        | 0         |
+|    l2_norm        | 401       |
+|    loss           | 0.0303    |
+|    neglogp        | 0.0303    |
+|    prob_true_act  | 0.973     |
+|    samples_so_far | 16032     |
+---------------------------------
+---------------------------------
+| batch_size        | 32        |
+| bc/               |           |
+|    batch          | 0         |
+|    ent_loss       | -4.74e-05 |
+|    entropy        | 0.0474    |
+|    epoch          | 0         |
+|    l2_loss        | 0         |
+|    l2_norm        | 410       |
+|    loss           | 0.0642    |
+|    neglogp        | 0.0642    |
+|    prob_true_act  | 0.959     |
+|    samples_so_far | 32        |
+---------------------------------
+---------------------------------
+| batch_size        | 32        |
+| bc/               |           |
+|    batch          | 500       |
+|    ent_loss       | -5.07e-05 |
+|    entropy        | 0.0507    |
+|    epoch          | 2         |
+|    l2_loss        | 0         |
+|    l2_norm        | 433       |
+|    loss           | 0.0384    |
+|    neglogp        | 0.0385    |
+|    prob_true_act  | 0.972     |
+|    samples_so_far | 16032     |
+---------------------------------
+---------------------------------
+| batch_size        | 32        |
+| bc/               |           |
+|    batch          | 0         |
+|    ent_loss       | -6.21e-05 |
+|    entropy        | 0.0621    |
+|    epoch          | 0         |
+|    l2_loss        | 0         |
+|    l2_norm        | 445       |
+|    loss           | 0.0218    |
+|    neglogp        | 0.0219    |
+|    prob_true_act  | 0.98      |
+|    samples_so_far | 32        |
+---------------------------------
+---------------------------------
+| batch_size        | 32        |
+| bc/               |           |
+|    batch          | 500       |
+|    ent_loss       | -4.28e-05 |
+|    entropy        | 0.0428    |
+|    epoch          | 2         |
+|    l2_loss        | 0         |
+|    l2_norm        | 464       |
+|    loss           | 0.0158    |
+|    neglogp        | 0.0158    |
+|    prob_true_act  | 0.986     |
+|    samples_so_far | 16032     |
+---------------------------------
+---------------------------------
+| batch_size        | 32        |
+| bc/               |           |
+|    batch          | 0         |
+|    ent_loss       | -4.61e-05 |
+|    entropy        | 0.0461    |
+|    epoch          | 0         |
+|    l2_loss        | 0         |
+|    l2_norm        | 476       |
+|    loss           | 0.061     |
+|    neglogp        | 0.061     |
+|    prob_true_act  | 0.965     |
+|    samples_so_far | 32        |
+---------------------------------
+---------------------------------
+| batch_size        | 32        |
+| bc/               |           |
+|    batch          | 500       |
+|    ent_loss       | -7.51e-05 |
+|    entropy        | 0.0751    |
+|    epoch          | 2         |
+|    l2_loss        | 0         |
+|    l2_norm        | 490       |
+|    loss           | 0.035     |
+|    neglogp        | 0.0351    |
+|    prob_true_act  | 0.97      |
+|    samples_so_far | 16032     |
+---------------------------------
+---------------------------------
+| batch_size        | 32        |
+| bc/               |           |
+|    batch          | 0         |
+|    ent_loss       | -5.15e-05 |
+|    entropy        | 0.0515    |
+|    epoch          | 0         |
+|    l2_loss        | 0         |
+|    l2_norm        | 503       |
+|    loss           | 0.0463    |
+|    neglogp        | 0.0464    |
+|    prob_true_act  | 0.968     |
+|    samples_so_far | 32        |
+---------------------------------
+---------------------------------
+| batch_size        | 32        |
+| bc/               |           |
+|    batch          | 500       |
+|    ent_loss       | -5.05e-05 |
+|    entropy        | 0.0505    |
+|    epoch          | 2         |
+|    l2_loss        | 0         |
+|    l2_norm        | 515       |
+|    loss           | 0.0389    |
+|    neglogp        | 0.0389    |
+|    prob_true_act  | 0.971     |
+|    samples_so_far | 16032     |
+---------------------------------
+--------------------------------
+| batch_size        | 32       |
+| bc/               |          |
+|    batch          | 0        |
+|    ent_loss       | -4.9e-05 |
+|    entropy        | 0.049    |
+|    epoch          | 0        |
+|    l2_loss        | 0        |
+|    l2_norm        | 525      |
+|    loss           | 0.0645   |
+|    neglogp        | 0.0645   |
+|    prob_true_act  | 0.959    |
+|    samples_so_far | 32       |
+--------------------------------
+---------------------------------
+| batch_size        | 32        |
+| bc/               |           |
+|    batch          | 500       |
+|    ent_loss       | -6.22e-05 |
+|    entropy        | 0.0622    |
+|    epoch          | 2         |
+|    l2_loss        | 0         |
+|    l2_norm        | 539       |
+|    loss           | 0.0844    |
+|    neglogp        | 0.0845    |
+|    prob_true_act  | 0.949     |
+|    samples_so_far | 16032     |
+---------------------------------
+---------------------------------
+| batch_size        | 32        |
+| bc/               |           |
+|    batch          | 0         |
+|    ent_loss       | -5.05e-05 |
+|    entropy        | 0.0505    |
+|    epoch          | 0         |
+|    l2_loss        | 0         |
+|    l2_norm        | 552       |
+|    loss           | 0.204     |
+|    neglogp        | 0.204     |
+|    prob_true_act  | 0.924     |
+|    samples_so_far | 32        |
+---------------------------------
+---------------------------------
+| batch_size        | 32        |
+| bc/               |           |
+|    batch          | 500       |
+|    ent_loss       | -3.93e-06 |
+|    entropy        | 0.00393   |
+|    epoch          | 1         |
+|    l2_loss        | 0         |
+|    l2_norm        | 562       |
+|    loss           | 0.000852  |
+|    neglogp        | 0.000856  |
+|    prob_true_act  | 0.999     |
+|    samples_so_far | 16032     |
+---------------------------------
+---------------------------------
+| batch_size        | 32        |
+| bc/               |           |
+|    batch          | 1000      |
+|    ent_loss       | -4.36e-05 |
+|    entropy        | 0.0436    |
+|    epoch          | 3         |
+|    l2_loss        | 0         |
+|    l2_norm        | 574       |
+|    loss           | 0.0141    |
+|    neglogp        | 0.0141    |
+|    prob_true_act  | 0.987     |
+|    samples_so_far | 32032     |
+---------------------------------
+---------------------------------
+| batch_size        | 32        |
+| bc/               |           |
+|    batch          | 0         |
+|    ent_loss       | -4.15e-05 |
+|    entropy        | 0.0415    |
+|    epoch          | 0         |
+|    l2_loss        | 0         |
+|    l2_norm        | 575       |
+|    loss           | 0.0245    |
+|    neglogp        | 0.0246    |
+|    prob_true_act  | 0.98      |
+|    samples_so_far | 32        |
+---------------------------------
+---------------------------------
+| batch_size        | 32        |
+| bc/               |           |
+|    batch          | 500       |
+|    ent_loss       | -2.59e-05 |
+|    entropy        | 0.0259    |
+|    epoch          | 1         |
+|    l2_loss        | 0         |
+|    l2_norm        | 584       |
+|    loss           | 0.181     |
+|    neglogp        | 0.181     |
+|    prob_true_act  | 0.943     |
+|    samples_so_far | 16032     |
+---------------------------------
+---------------------------------
+| batch_size        | 32        |
+| bc/               |           |
+|    batch          | 1000      |
+|    ent_loss       | -1.56e-05 |
+|    entropy        | 0.0156    |
+|    epoch          | 3         |
+|    l2_loss        | 0         |
+|    l2_norm        | 592       |
+|    loss           | 0.00502   |
+|    neglogp        | 0.00504   |
+|    prob_true_act  | 0.995     |
+|    samples_so_far | 32032     |
+---------------------------------
+---------------------------------
+| batch_size        | 32        |
+| bc/               |           |
+|    batch          | 0         |
+|    ent_loss       | -1.88e-05 |
+|    entropy        | 0.0188    |
+|    epoch          | 0         |
+|    l2_loss        | 0         |
+|    l2_norm        | 595       |
+|    loss           | 0.00474   |
+|    neglogp        | 0.00476   |
+|    prob_true_act  | 0.995     |
+|    samples_so_far | 32        |
+---------------------------------
+---------------------------------
+| batch_size        | 32        |
+| bc/               |           |
+|    batch          | 500       |
+|    ent_loss       | -5.89e-05 |
+|    entropy        | 0.0589    |
+|    epoch          | 1         |
+|    l2_loss        | 0         |
+|    l2_norm        | 605       |
+|    loss           | 0.0866    |
+|    neglogp        | 0.0867    |
+|    prob_true_act  | 0.948     |
+|    samples_so_far | 16032     |
+---------------------------------
+---------------------------------
+| batch_size        | 32        |
+| bc/               |           |
+|    batch          | 1000      |
+|    ent_loss       | -2.24e-05 |
+|    entropy        | 0.0224    |
+|    epoch          | 3         |
+|    l2_loss        | 0         |
+|    l2_norm        | 615       |
+|    loss           | 0.033     |
+|    neglogp        | 0.033     |
+|    prob_true_act  | 0.979     |
+|    samples_so_far | 32032     |
+---------------------------------
+---------------------------------
+| batch_size        | 32        |
+| bc/               |           |
+|    batch          | 0         |
+|    ent_loss       | -6.82e-06 |
+|    entropy        | 0.00682   |
+|    epoch          | 0         |
+|    l2_loss        | 0         |
+|    l2_norm        | 618       |
+|    loss           | 0.00176   |
+|    neglogp        | 0.00177   |
+|    prob_true_act  | 0.998     |
+|    samples_so_far | 32        |
+---------------------------------
+---------------------------------
+| batch_size        | 32        |
+| bc/               |           |
+|    batch          | 500       |
+|    ent_loss       | -3.56e-05 |
+|    entropy        | 0.0356    |
+|    epoch          | 1         |
+|    l2_loss        | 0         |
+|    l2_norm        | 624       |
+|    loss           | 0.0147    |
+|    neglogp        | 0.0148    |
+|    prob_true_act  | 0.987     |
+|    samples_so_far | 16032     |
+---------------------------------
+--------------------------------
+| batch_size        | 32       |
+| bc/               |          |
+|    batch          | 1000     |
+|    ent_loss       | -8.3e-05 |
+|    entropy        | 0.083    |
+|    epoch          | 3        |
+|    l2_loss        | 0        |
+|    l2_norm        | 635      |
+|    loss           | 0.0778   |
+|    neglogp        | 0.0779   |
+|    prob_true_act  | 0.944    |
+|    samples_so_far | 32032    |
+--------------------------------
+Running DAgger
+---------------------------------
+| batch_size        | 32        |
+| bc/               |           |
+|    batch          | 0         |
+|    ent_loss       | -0.000693 |
+|    entropy        | 0.693     |
+|    epoch          | 0         |
+|    l2_loss        | 0         |
+|    l2_norm        | 72.5      |
+|    loss           | 0.693     |
+|    neglogp        | 0.693     |
+|    prob_true_act  | 0.5       |
+|    samples_so_far | 32        |
+---------------------------------
+---------------------------------
+| batch_size        | 32        |
+| bc/               |           |
+|    batch          | 0         |
+|    ent_loss       | -0.000598 |
+|    entropy        | 0.598     |
+|    epoch          | 0         |
+|    l2_loss        | 0         |
+|    l2_norm        | 77.7      |
+|    loss           | 0.433     |
+|    neglogp        | 0.434     |
+|    prob_true_act  | 0.663     |
+|    samples_so_far | 32        |
+---------------------------------
+---------------------------------
+| batch_size        | 32        |
+| bc/               |           |
+|    batch          | 0         |
+|    ent_loss       | -0.000371 |
+|    entropy        | 0.371     |
+|    epoch          | 0         |
+|    l2_loss        | 0         |
+|    l2_norm        | 89.1      |
+|    loss           | 0.301     |
+|    neglogp        | 0.301     |
+|    prob_true_act  | 0.779     |
+|    samples_so_far | 32        |
+---------------------------------
+---------------------------------
+| batch_size        | 32        |
+| bc/               |           |
+|    batch          | 0         |
+|    ent_loss       | -0.000324 |
+|    entropy        | 0.324     |
+|    epoch          | 0         |
+|    l2_loss        | 0         |
+|    l2_norm        | 102       |
+|    loss           | 0.248     |
+|    neglogp        | 0.248     |
+|    prob_true_act  | 0.81      |
+|    samples_so_far | 32        |
+---------------------------------
+---------------------------------
+| batch_size        | 32        |
+| bc/               |           |
+|    batch          | 0         |
+|    ent_loss       | -0.000259 |
+|    entropy        | 0.259     |
+|    epoch          | 0         |
+|    l2_loss        | 0         |
+|    l2_norm        | 116       |
+|    loss           | 0.183     |
+|    neglogp        | 0.183     |
+|    prob_true_act  | 0.857     |
+|    samples_so_far | 32        |
+---------------------------------
+---------------------------------
+| batch_size        | 32        |
+| bc/               |           |
+|    batch          | 0         |
+|    ent_loss       | -6.08e-05 |
+|    entropy        | 0.0608    |
+|    epoch          | 0         |
+|    l2_loss        | 0         |
+|    l2_norm        | 138       |
+|    loss           | 0.0432    |
+|    neglogp        | 0.0432    |
+|    prob_true_act  | 0.967     |
+|    samples_so_far | 32        |
+---------------------------------
+---------------------------------
+| batch_size        | 32        |
+| bc/               |           |
+|    batch          | 0         |
+|    ent_loss       | -0.000165 |
+|    entropy        | 0.165     |
+|    epoch          | 0         |
+|    l2_loss        | 0         |
+|    l2_norm        | 166       |
+|    loss           | 0.0999    |
+|    neglogp        | 0.1       |
+|    prob_true_act  | 0.918     |
+|    samples_so_far | 32        |
+---------------------------------
+---------------------------------
+| batch_size        | 32        |
+| bc/               |           |
+|    batch          | 0         |
+|    ent_loss       | -0.000118 |
+|    entropy        | 0.118     |
+|    epoch          | 0         |
+|    l2_loss        | 0         |
+|    l2_norm        | 201       |
+|    loss           | 0.0699    |
+|    neglogp        | 0.07      |
+|    prob_true_act  | 0.944     |
+|    samples_so_far | 32        |
+---------------------------------
+---------------------------------
+| batch_size        | 32        |
+| bc/               |           |
+|    batch          | 0         |
+|    ent_loss       | -7.04e-05 |
+|    entropy        | 0.0704    |
+|    epoch          | 0         |
+|    l2_loss        | 0         |
+|    l2_norm        | 239       |
+|    loss           | 0.028     |
+|    neglogp        | 0.028     |
+|    prob_true_act  | 0.975     |
+|    samples_so_far | 32        |
+---------------------------------
+---------------------------------
+| batch_size        | 32        |
+| bc/               |           |
+|    batch          | 500       |
+|    ent_loss       | -0.000113 |
+|    entropy        | 0.113     |
+|    epoch          | 3         |
+|    l2_loss        | 0         |
+|    l2_norm        | 269       |
+|    loss           | 0.121     |
+|    neglogp        | 0.121     |
+|    prob_true_act  | 0.917     |
+|    samples_so_far | 16032     |
+---------------------------------
+---------------------------------
+| batch_size        | 32        |
+| bc/               |           |
+|    batch          | 0         |
+|    ent_loss       | -5.09e-05 |
+|    entropy        | 0.0509    |
+|    epoch          | 0         |
+|    l2_loss        | 0         |
+|    l2_norm        | 273       |
+|    loss           | 0.0244    |
+|    neglogp        | 0.0244    |
+|    prob_true_act  | 0.98      |
+|    samples_so_far | 32        |
+---------------------------------
+---------------------------------
+| batch_size        | 32        |
+| bc/               |           |
+|    batch          | 500       |
+|    ent_loss       | -2.56e-05 |
+|    entropy        | 0.0256    |
+|    epoch          | 3         |
+|    l2_loss        | 0         |
+|    l2_norm        | 296       |
+|    loss           | 0.00658   |
+|    neglogp        | 0.00661   |
+|    prob_true_act  | 0.994     |
+|    samples_so_far | 16032     |
+---------------------------------
+---------------------------------
+| batch_size        | 32        |
+| bc/               |           |
+|    batch          | 0         |
+|    ent_loss       | -2.36e-05 |
+|    entropy        | 0.0236    |
+|    epoch          | 0         |
+|    l2_loss        | 0         |
+|    l2_norm        | 301       |
+|    loss           | 0.00562   |
+|    neglogp        | 0.00564   |
+|    prob_true_act  | 0.994     |
+|    samples_so_far | 32        |
+---------------------------------
+---------------------------------
+| batch_size        | 32        |
+| bc/               |           |
+|    batch          | 500       |
+|    ent_loss       | -5.78e-05 |
+|    entropy        | 0.0578    |
+|    epoch          | 2         |
+|    l2_loss        | 0         |
+|    l2_norm        | 320       |
+|    loss           | 0.0209    |
+|    neglogp        | 0.021     |
+|    prob_true_act  | 0.981     |
+|    samples_so_far | 16032     |
+---------------------------------
+---------------------------------
+| batch_size        | 32        |
+| bc/               |           |
+|    batch          | 0         |
+|    ent_loss       | -5.04e-05 |
+|    entropy        | 0.0504    |
+|    epoch          | 0         |
+|    l2_loss        | 0         |
+|    l2_norm        | 326       |
+|    loss           | 0.021     |
+|    neglogp        | 0.0211    |
+|    prob_true_act  | 0.981     |
+|    samples_so_far | 32        |
+---------------------------------
+--------------------------------
+| batch_size        | 32       |
+| bc/               |          |
+|    batch          | 500      |
+|    ent_loss       | -5.9e-05 |
+|    entropy        | 0.059    |
+|    epoch          | 2        |
+|    l2_loss        | 0        |
+|    l2_norm        | 341      |
+|    loss           | 0.0252   |
+|    neglogp        | 0.0252   |
+|    prob_true_act  | 0.978    |
+|    samples_so_far | 16032    |
+--------------------------------
+---------------------------------
+| batch_size        | 32        |
+| bc/               |           |
+|    batch          | 0         |
+|    ent_loss       | -0.000107 |
+|    entropy        | 0.107     |
+|    epoch          | 0         |
+|    l2_loss        | 0         |
+|    l2_norm        | 348       |
+|    loss           | 0.0544    |
+|    neglogp        | 0.0545    |
+|    prob_true_act  | 0.955     |
+|    samples_so_far | 32        |
+---------------------------------
+---------------------------------
+| batch_size        | 32        |
+| bc/               |           |
+|    batch          | 500       |
+|    ent_loss       | -3.98e-05 |
+|    entropy        | 0.0398    |
+|    epoch          | 2         |
+|    l2_loss        | 0         |
+|    l2_norm        | 363       |
+|    loss           | 0.0166    |
+|    neglogp        | 0.0166    |
+|    prob_true_act  | 0.985     |
+|    samples_so_far | 16032     |
+---------------------------------
+---------------------------------
+| batch_size        | 32        |
+| bc/               |           |
+|    batch          | 0         |
+|    ent_loss       | -3.32e-05 |
+|    entropy        | 0.0332    |
+|    epoch          | 0         |
+|    l2_loss        | 0         |
+|    l2_norm        | 373       |
+|    loss           | 0.0156    |
+|    neglogp        | 0.0157    |
+|    prob_true_act  | 0.986     |
+|    samples_so_far | 32        |
+---------------------------------
+---------------------------------
+| batch_size        | 32        |
+| bc/               |           |
+|    batch          | 500       |
+|    ent_loss       | -1.61e-05 |
+|    entropy        | 0.0161    |
+|    epoch          | 2         |
+|    l2_loss        | 0         |
+|    l2_norm        | 386       |
+|    loss           | 0.0732    |
+|    neglogp        | 0.0732    |
+|    prob_true_act  | 0.971     |
+|    samples_so_far | 16032     |
+---------------------------------
+---------------------------------
+| batch_size        | 32        |
+| bc/               |           |
+|    batch          | 0         |
+|    ent_loss       | -8.74e-05 |
+|    entropy        | 0.0874    |
+|    epoch          | 0         |
+|    l2_loss        | 0         |
+|    l2_norm        | 392       |
+|    loss           | 0.0628    |
+|    neglogp        | 0.0629    |
+|    prob_true_act  | 0.955     |
+|    samples_so_far | 32        |
+---------------------------------
+---------------------------------
+| batch_size        | 32        |
+| bc/               |           |
+|    batch          | 500       |
+|    ent_loss       | -3.42e-05 |
+|    entropy        | 0.0342    |
+|    epoch          | 2         |
+|    l2_loss        | 0         |
+|    l2_norm        | 404       |
+|    loss           | 0.0196    |
+|    neglogp        | 0.0196    |
+|    prob_true_act  | 0.984     |
+|    samples_so_far | 16032     |
+---------------------------------
+--------------------------------
+| batch_size        | 32       |
+| bc/               |          |
+|    batch          | 0        |
+|    ent_loss       | -3.6e-05 |
+|    entropy        | 0.036    |
+|    epoch          | 0        |
+|    l2_loss        | 0        |
+|    l2_norm        | 409      |
+|    loss           | 0.0118   |
+|    neglogp        | 0.0118   |
+|    prob_true_act  | 0.989    |
+|    samples_so_far | 32       |
+--------------------------------
+---------------------------------
+| batch_size        | 32        |
+| bc/               |           |
+|    batch          | 500       |
+|    ent_loss       | -4.39e-05 |
+|    entropy        | 0.0439    |
+|    epoch          | 2         |
+|    l2_loss        | 0         |
+|    l2_norm        | 419       |
+|    loss           | 0.0199    |
+|    neglogp        | 0.0199    |
+|    prob_true_act  | 0.983     |
+|    samples_so_far | 16032     |
+---------------------------------
+---------------------------------
+| batch_size        | 32        |
+| bc/               |           |
+|    batch          | 0         |
+|    ent_loss       | -8.09e-05 |
+|    entropy        | 0.0809    |
+|    epoch          | 0         |
+|    l2_loss        | 0         |
+|    l2_norm        | 429       |
+|    loss           | 0.0363    |
+|    neglogp        | 0.0364    |
+|    prob_true_act  | 0.968     |
+|    samples_so_far | 32        |
+---------------------------------
+---------------------------------
+| batch_size        | 32        |
+| bc/               |           |
+|    batch          | 500       |
+|    ent_loss       | -2.95e-05 |
+|    entropy        | 0.0295    |
+|    epoch          | 1         |
+|    l2_loss        | 0         |
+|    l2_norm        | 438       |
+|    loss           | 0.0331    |
+|    neglogp        | 0.0331    |
+|    prob_true_act  | 0.978     |
+|    samples_so_far | 16032     |
+---------------------------------
+---------------------------------
+| batch_size        | 32        |
+| bc/               |           |
+|    batch          | 1000      |
+|    ent_loss       | -1.02e-05 |
+|    entropy        | 0.0102    |
+|    epoch          | 3         |
+|    l2_loss        | 0         |
+|    l2_norm        | 445       |
+|    loss           | 0.00209   |
+|    neglogp        | 0.0021    |
+|    prob_true_act  | 0.998     |
+|    samples_so_far | 32032     |
+---------------------------------
+---------------------------------
+| batch_size        | 32        |
+| bc/               |           |
+|    batch          | 0         |
+|    ent_loss       | -1.44e-05 |
+|    entropy        | 0.0144    |
+|    epoch          | 0         |
+|    l2_loss        | 0         |
+|    l2_norm        | 446       |
+|    loss           | 0.00484   |
+|    neglogp        | 0.00486   |
+|    prob_true_act  | 0.995     |
+|    samples_so_far | 32        |
+---------------------------------
+---------------------------------
+| batch_size        | 32        |
+| bc/               |           |
+|    batch          | 500       |
+|    ent_loss       | -2.86e-05 |
+|    entropy        | 0.0286    |
+|    epoch          | 1         |
+|    l2_loss        | 0         |
+|    l2_norm        | 457       |
+|    loss           | 0.00991   |
+|    neglogp        | 0.00994   |
+|    prob_true_act  | 0.991     |
+|    samples_so_far | 16032     |
+---------------------------------
+---------------------------------
+| batch_size        | 32        |
+| bc/               |           |
+|    batch          | 1000      |
+|    ent_loss       | -1.11e-05 |
+|    entropy        | 0.0111    |
+|    epoch          | 3         |
+|    l2_loss        | 0         |
+|    l2_norm        | 467       |
+|    loss           | 0.00368   |
+|    neglogp        | 0.00369   |
+|    prob_true_act  | 0.997     |
+|    samples_so_far | 32032     |
+---------------------------------
+---------------------------------
+| batch_size        | 32        |
+| bc/               |           |
+|    batch          | 0         |
+|    ent_loss       | -2.96e-05 |
+|    entropy        | 0.0296    |
+|    epoch          | 0         |
+|    l2_loss        | 0         |
+|    l2_norm        | 467       |
+|    loss           | 0.0135    |
+|    neglogp        | 0.0135    |
+|    prob_true_act  | 0.988     |
+|    samples_so_far | 32        |
+---------------------------------
+---------------------------------
+| batch_size        | 32        |
+| bc/               |           |
+|    batch          | 500       |
+|    ent_loss       | -1.91e-05 |
+|    entropy        | 0.0191    |
+|    epoch          | 1         |
+|    l2_loss        | 0         |
+|    l2_norm        | 472       |
+|    loss           | 0.00494   |
+|    neglogp        | 0.00496   |
+|    prob_true_act  | 0.995     |
+|    samples_so_far | 16032     |
+---------------------------------
+---------------------------------
+| batch_size        | 32        |
+| bc/               |           |
+|    batch          | 1000      |
+|    ent_loss       | -5.25e-05 |
+|    entropy        | 0.0525    |
+|    epoch          | 3         |
+|    l2_loss        | 0         |
+|    l2_norm        | 476       |
+|    loss           | 0.0567    |
+|    neglogp        | 0.0568    |
+|    prob_true_act  | 0.962     |
+|    samples_so_far | 32032     |
+---------------------------------
+---------------------------------
+| batch_size        | 32        |
+| bc/               |           |
+|    batch          | 0         |
+|    ent_loss       | -2.02e-05 |
+|    entropy        | 0.0202    |
+|    epoch          | 0         |
+|    l2_loss        | 0         |
+|    l2_norm        | 479       |
+|    loss           | 0.00495   |
+|    neglogp        | 0.00497   |
+|    prob_true_act  | 0.995     |
+|    samples_so_far | 32        |
+---------------------------------
+---------------------------------
+| batch_size        | 32        |
+| bc/               |           |
+|    batch          | 500       |
+|    ent_loss       | -9.17e-06 |
+|    entropy        | 0.00917   |
+|    epoch          | 1         |
+|    l2_loss        | 0         |
+|    l2_norm        | 488       |
+|    loss           | 0.00204   |
+|    neglogp        | 0.00205   |
+|    prob_true_act  | 0.998     |
+|    samples_so_far | 16032     |
+---------------------------------
+---------------------------------
+| batch_size        | 32        |
+| bc/               |           |
+|    batch          | 1000      |
+|    ent_loss       | -8.82e-05 |
+|    entropy        | 0.0882    |
+|    epoch          | 3         |
+|    l2_loss        | 0         |
+|    l2_norm        | 491       |
+|    loss           | 0.0513    |
+|    neglogp        | 0.0514    |
+|    prob_true_act  | 0.958     |
+|    samples_so_far | 32032     |
+---------------------------------
+Running SMILe
+---------------------------------
+| batch_size        | 32        |
+| bc/               |           |
+|    batch          | 0         |
+|    ent_loss       | -0.000693 |
+|    entropy        | 0.693     |
+|    epoch          | 0         |
+|    l2_loss        | 0         |
+|    l2_norm        | 72.5      |
+|    loss           | 0.693     |
+|    neglogp        | 0.693     |
+|    prob_true_act  | 0.5       |
+|    samples_so_far | 32        |
+---------------------------------
+---------------------------------
+| batch_size        | 32        |
+| bc/               |           |
+|    batch          | 0         |
+|    ent_loss       | -0.000693 |
+|    entropy        | 0.693     |
+|    epoch          | 0         |
+|    l2_loss        | 0         |
+|    l2_norm        | 72.5      |
+|    loss           | 0.692     |
+|    neglogp        | 0.693     |
+|    prob_true_act  | 0.5       |
+|    samples_so_far | 32        |
+---------------------------------
+---------------------------------
+| batch_size        | 32        |
+| bc/               |           |
+|    batch          | 0         |
+|    ent_loss       | -0.000693 |
+|    entropy        | 0.693     |
+|    epoch          | 0         |
+|    l2_loss        | 0         |
+|    l2_norm        | 72.5      |
+|    loss           | 0.693     |
+|    neglogp        | 0.694     |
+|    prob_true_act  | 0.5       |
+|    samples_so_far | 32        |
+---------------------------------
+---------------------------------
+| batch_size        | 32        |
+| bc/               |           |
+|    batch          | 0         |
+|    ent_loss       | -0.000693 |
+|    entropy        | 0.693     |
+|    epoch          | 0         |
+|    l2_loss        | 0         |
+|    l2_norm        | 72.5      |
+|    loss           | 0.693     |
+|    neglogp        | 0.693     |
+|    prob_true_act  | 0.5       |
+|    samples_so_far | 32        |
+---------------------------------
+---------------------------------
+| batch_size        | 32        |
+| bc/               |           |
+|    batch          | 0         |
+|    ent_loss       | -0.000693 |
+|    entropy        | 0.693     |
+|    epoch          | 0         |
+|    l2_loss        | 0         |
+|    l2_norm        | 72.5      |
+|    loss           | 0.693     |
+|    neglogp        | 0.693     |
+|    prob_true_act  | 0.5       |
+|    samples_so_far | 32        |
+---------------------------------
+---------------------------------
+| batch_size        | 32        |
+| bc/               |           |
+|    batch          | 0         |
+|    ent_loss       | -0.000693 |
+|    entropy        | 0.693     |
+|    epoch          | 0         |
+|    l2_loss        | 0         |
+|    l2_norm        | 72.5      |
+|    loss           | 0.693     |
+|    neglogp        | 0.694     |
+|    prob_true_act  | 0.5       |
+|    samples_so_far | 32        |
+---------------------------------
+---------------------------------
+| batch_size        | 32        |
+| bc/               |           |
+|    batch          | 0         |
+|    ent_loss       | -0.000693 |
+|    entropy        | 0.693     |
+|    epoch          | 0         |
+|    l2_loss        | 0         |
+|    l2_norm        | 72.5      |
+|    loss           | 0.692     |
+|    neglogp        | 0.693     |
+|    prob_true_act  | 0.5       |
+|    samples_so_far | 32        |
+---------------------------------
+---------------------------------
+| batch_size        | 32        |
+| bc/               |           |
+|    batch          | 0         |
+|    ent_loss       | -0.000693 |
+|    entropy        | 0.693     |
+|    epoch          | 0         |
+|    l2_loss        | 0         |
+|    l2_norm        | 72.5      |
+|    loss           | 0.692     |
+|    neglogp        | 0.693     |
+|    prob_true_act  | 0.5       |
+|    samples_so_far | 32        |
+---------------------------------
+---------------------------------
+| batch_size        | 32        |
+| bc/               |           |
+|    batch          | 0         |
+|    ent_loss       | -0.000693 |
+|    entropy        | 0.693     |
+|    epoch          | 0         |
+|    l2_loss        | 0         |
+|    l2_norm        | 72.5      |
+|    loss           | 0.692     |
+|    neglogp        | 0.693     |
+|    prob_true_act  | 0.5       |
+|    samples_so_far | 32        |
+---------------------------------
+---------------------------------
+| batch_size        | 32        |
+| bc/               |           |
+|    batch          | 0         |
+|    ent_loss       | -0.000693 |
+|    entropy        | 0.693     |
+|    epoch          | 0         |
+|    l2_loss        | 0         |
+|    l2_norm        | 72.5      |
+|    loss           | 0.692     |
+|    neglogp        | 0.692     |
+|    prob_true_act  | 0.5       |
+|    samples_so_far | 32        |
+---------------------------------
+---------------------------------
+| batch_size        | 32        |
+| bc/               |           |
+|    batch          | 0         |
+|    ent_loss       | -0.000693 |
+|    entropy        | 0.693     |
+|    epoch          | 0         |
+|    l2_loss        | 0         |
+|    l2_norm        | 72.5      |
+|    loss           | 0.692     |
+|    neglogp        | 0.692     |
+|    prob_true_act  | 0.5       |
+|    samples_so_far | 32        |
+---------------------------------
+---------------------------------
+| batch_size        | 32        |
+| bc/               |           |
+|    batch          | 0         |
+|    ent_loss       | -0.000693 |
+|    entropy        | 0.693     |
+|    epoch          | 0         |
+|    l2_loss        | 0         |
+|    l2_norm        | 72.5      |
+|    loss           | 0.693     |
+|    neglogp        | 0.693     |
+|    prob_true_act  | 0.5       |
+|    samples_so_far | 32        |
+---------------------------------
+---------------------------------
+| batch_size        | 32        |
+| bc/               |           |
+|    batch          | 0         |
+|    ent_loss       | -0.000693 |
+|    entropy        | 0.693     |
+|    epoch          | 0         |
+|    l2_loss        | 0         |
+|    l2_norm        | 72.5      |
+|    loss           | 0.693     |
+|    neglogp        | 0.693     |
+|    prob_true_act  | 0.5       |
+|    samples_so_far | 32        |
+---------------------------------
+---------------------------------
+| batch_size        | 32        |
+| bc/               |           |
+|    batch          | 0         |
+|    ent_loss       | -0.000693 |
+|    entropy        | 0.693     |
+|    epoch          | 0         |
+|    l2_loss        | 0         |
+|    l2_norm        | 72.5      |
+|    loss           | 0.692     |
+|    neglogp        | 0.693     |
+|    prob_true_act  | 0.5       |
+|    samples_so_far | 32        |
+---------------------------------
+---------------------------------
+| batch_size        | 32        |
+| bc/               |           |
+|    batch          | 0         |
+|    ent_loss       | -0.000693 |
+|    entropy        | 0.693     |
+|    epoch          | 0         |
+|    l2_loss        | 0         |
+|    l2_norm        | 72.5      |
+|    loss           | 0.692     |
+|    neglogp        | 0.693     |
+|    prob_true_act  | 0.5       |
+|    samples_so_far | 32        |
+---------------------------------
+---------------------------------
+| batch_size        | 32        |
+| bc/               |           |
+|    batch          | 0         |
+|    ent_loss       | -0.000693 |
+|    entropy        | 0.693     |
+|    epoch          | 0         |
+|    l2_loss        | 0         |
+|    l2_norm        | 72.5      |
+|    loss           | 0.693     |
+|    neglogp        | 0.693     |
+|    prob_true_act  | 0.5       |
+|    samples_so_far | 32        |
+---------------------------------
+---------------------------------
+| batch_size        | 32        |
+| bc/               |           |
+|    batch          | 0         |
+|    ent_loss       | -0.000693 |
+|    entropy        | 0.693     |
+|    epoch          | 0         |
+|    l2_loss        | 0         |
+|    l2_norm        | 72.5      |
+|    loss           | 0.693     |
+|    neglogp        | 0.693     |
+|    prob_true_act  | 0.5       |
+|    samples_so_far | 32        |
+---------------------------------
+---------------------------------
+| batch_size        | 32        |
+| bc/               |           |
+|    batch          | 0         |
+|    ent_loss       | -0.000693 |
+|    entropy        | 0.693     |
+|    epoch          | 0         |
+|    l2_loss        | 0         |
+|    l2_norm        | 72.5      |
+|    loss           | 0.693     |
+|    neglogp        | 0.693     |
+|    prob_true_act  | 0.5       |
+|    samples_so_far | 32        |
+---------------------------------
+---------------------------------
+| batch_size        | 32        |
+| bc/               |           |
+|    batch          | 0         |
+|    ent_loss       | -0.000693 |
+|    entropy        | 0.693     |
+|    epoch          | 0         |
+|    l2_loss        | 0         |
+|    l2_norm        | 72.5      |
+|    loss           | 0.693     |
+|    neglogp        | 0.694     |
+|    prob_true_act  | 0.5       |
+|    samples_so_far | 32        |
+---------------------------------
+---------------------------------
+| batch_size        | 32        |
+| bc/               |           |
+|    batch          | 0         |
+|    ent_loss       | -0.000693 |
+|    entropy        | 0.693     |
+|    epoch          | 0         |
+|    l2_loss        | 0         |
+|    l2_norm        | 72.5      |
+|    loss           | 0.692     |
+|    neglogp        | 0.693     |
+|    prob_true_act  | 0.5       |
+|    samples_so_far | 32        |
+---------------------------------
+{
+  "environment": "CartPole-v1",
+  "expert": {
+    "environment_seed": 40000,
+    "episode_failures": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "episode_lengths": [
+      500,
+      500,
+      500,
+      500,
+      500,
+      500,
+      500,
+      500,
+      500,
+      500,
+      500,
+      500,
+      500,
+      500,
+      500,
+      500,
+      500,
+      500,
+      500,
+      500
+    ],
+    "episode_returns": [
+      500.0,
+      500.0,
+      500.0,
+      500.0,
+      500.0,
+      500.0,
+      500.0,
+      500.0,
+      500.0,
+      500.0,
+      500.0,
+      500.0,
+      500.0,
+      500.0,
+      500.0,
+      500.0,
+      500.0,
+      500.0,
+      500.0,
+      500.0
+    ],
+    "episodes": 20,
+    "failure_count": 0,
+    "failure_rate": 0.0,
+    "mean_return": 500.0,
+    "return_standard_deviation": 0.0,
+    "selector_seed": 303000
+  },
+  "methods": {
+    "dagger": [
+      {
+        "beta": 1.0,
+        "cumulative_labels": 500,
+        "evaluation": {
+          "environment_seed": 40000,
+          "episode_failures": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+          ],
+          "episode_lengths": [
+            94,
+            70,
+            102,
+            147,
+            56,
+            98,
+            88,
+            83,
+            68,
+            56,
+            96,
+            110,
+            125,
+            78,
+            54,
+            90,
+            107,
+            70,
+            55,
+            52
+          ],
+          "episode_returns": [
+            94.0,
+            70.0,
+            102.0,
+            147.0,
+            56.0,
+            98.0,
+            88.0,
+            83.0,
+            68.0,
+            56.0,
+            96.0,
+            110.0,
+            125.0,
+            78.0,
+            54.0,
+            90.0,
+            107.0,
+            70.0,
+            55.0,
+            52.0
+          ],
+          "episodes": 20,
+          "failure_count": 20,
+          "failure_rate": 1.0,
+          "mean_return": 84.95,
+          "return_standard_deviation": 25.17036948477316,
+          "selector_seed": 303000
+        },
+        "iteration": 1,
+        "new_labels": 500,
+        "preupdate_learner_expert_disagreement_rate": null,
+        "training_failures": 0,
+        "training_segments": 1
+      },
+      {
+        "beta": 0.0,
+        "cumulative_labels": 1000,
+        "evaluation": {
+          "environment_seed": 40000,
+          "episode_failures": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+          ],
+          "episode_lengths": [
+            273,
+            293,
+            363,
+            311,
+            232,
+            384,
+            346,
+            288,
+            222,
+            148,
+            256,
+            271,
+            289,
+            349,
+            158,
+            339,
+            263,
+            229,
+            219,
+            167
+          ],
+          "episode_returns": [
+            273.0,
+            293.0,
+            363.0,
+            311.0,
+            232.0,
+            384.0,
+            346.0,
+            288.0,
+            222.0,
+            148.0,
+            256.0,
+            271.0,
+            289.0,
+            349.0,
+            158.0,
+            339.0,
+            263.0,
+            229.0,
+            219.0,
+            167.0
+          ],
+          "episodes": 20,
+          "failure_count": 20,
+          "failure_rate": 1.0,
+          "mean_return": 270.0,
+          "return_standard_deviation": 66.19667665374146,
+          "selector_seed": 303000
+        },
+        "iteration": 2,
+        "new_labels": 500,
+        "preupdate_learner_expert_disagreement_rate": 0.188,
+        "training_failures": 4,
+        "training_segments": 5
+      },
+      {
+        "beta": 0.0,
+        "cumulative_labels": 1500,
+        "evaluation": {
+          "environment_seed": 40000,
+          "episode_failures": [
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            1,
+            1,
+            1,
+            0,
+            0,
+            0,
+            1,
+            0,
+            1,
+            1,
+            1,
+            1
+          ],
+          "episode_lengths": [
+            500,
+            500,
+            500,
+            500,
+            430,
+            500,
+            500,
+            500,
+            381,
+            317,
+            490,
+            500,
+            500,
+            500,
+            281,
+            500,
+            490,
+            429,
+            426,
+            406
+          ],
+          "episode_returns": [
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            430.0,
+            500.0,
+            500.0,
+            500.0,
+            381.0,
+            317.0,
+            490.0,
+            500.0,
+            500.0,
+            500.0,
+            281.0,
+            500.0,
+            490.0,
+            429.0,
+            426.0,
+            406.0
+          ],
+          "episodes": 20,
+          "failure_count": 9,
+          "failure_rate": 0.45,
+          "mean_return": 457.5,
+          "return_standard_deviation": 64.78387144961313,
+          "selector_seed": 303000
+        },
+        "iteration": 3,
+        "new_labels": 500,
+        "preupdate_learner_expert_disagreement_rate": 0.13,
+        "training_failures": 1,
+        "training_segments": 2
+      },
+      {
+        "beta": 0.0,
+        "cumulative_labels": 2000,
+        "evaluation": {
+          "environment_seed": 40000,
+          "episode_failures": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "episode_lengths": [
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            372,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500
+          ],
+          "episode_returns": [
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            372.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0
+          ],
+          "episodes": 20,
+          "failure_count": 1,
+          "failure_rate": 0.05,
+          "mean_return": 493.6,
+          "return_standard_deviation": 27.89695323866031,
+          "selector_seed": 303000
+        },
+        "iteration": 4,
+        "new_labels": 500,
+        "preupdate_learner_expert_disagreement_rate": 0.138,
+        "training_failures": 0,
+        "training_segments": 1
+      },
+      {
+        "beta": 0.0,
+        "cumulative_labels": 2500,
+        "evaluation": {
+          "environment_seed": 40000,
+          "episode_failures": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "episode_lengths": [
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            398,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500
+          ],
+          "episode_returns": [
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            398.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0
+          ],
+          "episodes": 20,
+          "failure_count": 1,
+          "failure_rate": 0.05,
+          "mean_return": 494.9,
+          "return_standard_deviation": 22.230384612057435,
+          "selector_seed": 303000
+        },
+        "iteration": 5,
+        "new_labels": 500,
+        "preupdate_learner_expert_disagreement_rate": 0.14,
+        "training_failures": 0,
+        "training_segments": 1
+      },
+      {
+        "beta": 0.0,
+        "cumulative_labels": 3000,
+        "evaluation": {
+          "environment_seed": 40000,
+          "episode_failures": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "episode_lengths": [
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500
+          ],
+          "episode_returns": [
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0
+          ],
+          "episodes": 20,
+          "failure_count": 0,
+          "failure_rate": 0.0,
+          "mean_return": 500.0,
+          "return_standard_deviation": 0.0,
+          "selector_seed": 303000
+        },
+        "iteration": 6,
+        "new_labels": 500,
+        "preupdate_learner_expert_disagreement_rate": 0.178,
+        "training_failures": 0,
+        "training_segments": 1
+      },
+      {
+        "beta": 0.0,
+        "cumulative_labels": 3500,
+        "evaluation": {
+          "environment_seed": 40000,
+          "episode_failures": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "episode_lengths": [
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500
+          ],
+          "episode_returns": [
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0
+          ],
+          "episodes": 20,
+          "failure_count": 0,
+          "failure_rate": 0.0,
+          "mean_return": 500.0,
+          "return_standard_deviation": 0.0,
+          "selector_seed": 303000
+        },
+        "iteration": 7,
+        "new_labels": 500,
+        "preupdate_learner_expert_disagreement_rate": 0.018,
+        "training_failures": 0,
+        "training_segments": 1
+      },
+      {
+        "beta": 0.0,
+        "cumulative_labels": 4000,
+        "evaluation": {
+          "environment_seed": 40000,
+          "episode_failures": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "episode_lengths": [
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500
+          ],
+          "episode_returns": [
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0
+          ],
+          "episodes": 20,
+          "failure_count": 0,
+          "failure_rate": 0.0,
+          "mean_return": 500.0,
+          "return_standard_deviation": 0.0,
+          "selector_seed": 303000
+        },
+        "iteration": 8,
+        "new_labels": 500,
+        "preupdate_learner_expert_disagreement_rate": 0.052,
+        "training_failures": 0,
+        "training_segments": 1
+      },
+      {
+        "beta": 0.0,
+        "cumulative_labels": 4500,
+        "evaluation": {
+          "environment_seed": 40000,
+          "episode_failures": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "episode_lengths": [
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500
+          ],
+          "episode_returns": [
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0
+          ],
+          "episodes": 20,
+          "failure_count": 0,
+          "failure_rate": 0.0,
+          "mean_return": 500.0,
+          "return_standard_deviation": 0.0,
+          "selector_seed": 303000
+        },
+        "iteration": 9,
+        "new_labels": 500,
+        "preupdate_learner_expert_disagreement_rate": 0.064,
+        "training_failures": 0,
+        "training_segments": 1
+      },
+      {
+        "beta": 0.0,
+        "cumulative_labels": 5000,
+        "evaluation": {
+          "environment_seed": 40000,
+          "episode_failures": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "episode_lengths": [
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500
+          ],
+          "episode_returns": [
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0
+          ],
+          "episodes": 20,
+          "failure_count": 0,
+          "failure_rate": 0.0,
+          "mean_return": 500.0,
+          "return_standard_deviation": 0.0,
+          "selector_seed": 303000
+        },
+        "iteration": 10,
+        "new_labels": 500,
+        "preupdate_learner_expert_disagreement_rate": 0.036,
+        "training_failures": 0,
+        "training_segments": 1
+      },
+      {
+        "beta": 0.0,
+        "cumulative_labels": 5500,
+        "evaluation": {
+          "environment_seed": 40000,
+          "episode_failures": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "episode_lengths": [
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500
+          ],
+          "episode_returns": [
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0
+          ],
+          "episodes": 20,
+          "failure_count": 0,
+          "failure_rate": 0.0,
+          "mean_return": 500.0,
+          "return_standard_deviation": 0.0,
+          "selector_seed": 303000
+        },
+        "iteration": 11,
+        "new_labels": 500,
+        "preupdate_learner_expert_disagreement_rate": 0.038,
+        "training_failures": 0,
+        "training_segments": 1
+      },
+      {
+        "beta": 0.0,
+        "cumulative_labels": 6000,
+        "evaluation": {
+          "environment_seed": 40000,
+          "episode_failures": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "episode_lengths": [
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500
+          ],
+          "episode_returns": [
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0
+          ],
+          "episodes": 20,
+          "failure_count": 0,
+          "failure_rate": 0.0,
+          "mean_return": 500.0,
+          "return_standard_deviation": 0.0,
+          "selector_seed": 303000
+        },
+        "iteration": 12,
+        "new_labels": 500,
+        "preupdate_learner_expert_disagreement_rate": 0.044,
+        "training_failures": 0,
+        "training_segments": 1
+      },
+      {
+        "beta": 0.0,
+        "cumulative_labels": 6500,
+        "evaluation": {
+          "environment_seed": 40000,
+          "episode_failures": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "episode_lengths": [
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500
+          ],
+          "episode_returns": [
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0
+          ],
+          "episodes": 20,
+          "failure_count": 0,
+          "failure_rate": 0.0,
+          "mean_return": 500.0,
+          "return_standard_deviation": 0.0,
+          "selector_seed": 303000
+        },
+        "iteration": 13,
+        "new_labels": 500,
+        "preupdate_learner_expert_disagreement_rate": 0.006,
+        "training_failures": 0,
+        "training_segments": 1
+      },
+      {
+        "beta": 0.0,
+        "cumulative_labels": 7000,
+        "evaluation": {
+          "environment_seed": 40000,
+          "episode_failures": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "episode_lengths": [
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500
+          ],
+          "episode_returns": [
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0
+          ],
+          "episodes": 20,
+          "failure_count": 0,
+          "failure_rate": 0.0,
+          "mean_return": 500.0,
+          "return_standard_deviation": 0.0,
+          "selector_seed": 303000
+        },
+        "iteration": 14,
+        "new_labels": 500,
+        "preupdate_learner_expert_disagreement_rate": 0.01,
+        "training_failures": 0,
+        "training_segments": 1
+      },
+      {
+        "beta": 0.0,
+        "cumulative_labels": 7500,
+        "evaluation": {
+          "environment_seed": 40000,
+          "episode_failures": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "episode_lengths": [
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500
+          ],
+          "episode_returns": [
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0
+          ],
+          "episodes": 20,
+          "failure_count": 0,
+          "failure_rate": 0.0,
+          "mean_return": 500.0,
+          "return_standard_deviation": 0.0,
+          "selector_seed": 303000
+        },
+        "iteration": 15,
+        "new_labels": 500,
+        "preupdate_learner_expert_disagreement_rate": 0.042,
+        "training_failures": 0,
+        "training_segments": 1
+      },
+      {
+        "beta": 0.0,
+        "cumulative_labels": 8000,
+        "evaluation": {
+          "environment_seed": 40000,
+          "episode_failures": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "episode_lengths": [
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500
+          ],
+          "episode_returns": [
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0
+          ],
+          "episodes": 20,
+          "failure_count": 0,
+          "failure_rate": 0.0,
+          "mean_return": 500.0,
+          "return_standard_deviation": 0.0,
+          "selector_seed": 303000
+        },
+        "iteration": 16,
+        "new_labels": 500,
+        "preupdate_learner_expert_disagreement_rate": 0.02,
+        "training_failures": 0,
+        "training_segments": 1
+      },
+      {
+        "beta": 0.0,
+        "cumulative_labels": 8500,
+        "evaluation": {
+          "environment_seed": 40000,
+          "episode_failures": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "episode_lengths": [
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500
+          ],
+          "episode_returns": [
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0
+          ],
+          "episodes": 20,
+          "failure_count": 0,
+          "failure_rate": 0.0,
+          "mean_return": 500.0,
+          "return_standard_deviation": 0.0,
+          "selector_seed": 303000
+        },
+        "iteration": 17,
+        "new_labels": 500,
+        "preupdate_learner_expert_disagreement_rate": 0.026,
+        "training_failures": 0,
+        "training_segments": 1
+      },
+      {
+        "beta": 0.0,
+        "cumulative_labels": 9000,
+        "evaluation": {
+          "environment_seed": 40000,
+          "episode_failures": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "episode_lengths": [
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500
+          ],
+          "episode_returns": [
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0
+          ],
+          "episodes": 20,
+          "failure_count": 0,
+          "failure_rate": 0.0,
+          "mean_return": 500.0,
+          "return_standard_deviation": 0.0,
+          "selector_seed": 303000
+        },
+        "iteration": 18,
+        "new_labels": 500,
+        "preupdate_learner_expert_disagreement_rate": 0.002,
+        "training_failures": 0,
+        "training_segments": 1
+      },
+      {
+        "beta": 0.0,
+        "cumulative_labels": 9500,
+        "evaluation": {
+          "environment_seed": 40000,
+          "episode_failures": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "episode_lengths": [
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500
+          ],
+          "episode_returns": [
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0
+          ],
+          "episodes": 20,
+          "failure_count": 0,
+          "failure_rate": 0.0,
+          "mean_return": 500.0,
+          "return_standard_deviation": 0.0,
+          "selector_seed": 303000
+        },
+        "iteration": 19,
+        "new_labels": 500,
+        "preupdate_learner_expert_disagreement_rate": 0.01,
+        "training_failures": 0,
+        "training_segments": 1
+      },
+      {
+        "beta": 0.0,
+        "cumulative_labels": 10000,
+        "evaluation": {
+          "environment_seed": 40000,
+          "episode_failures": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "episode_lengths": [
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500
+          ],
+          "episode_returns": [
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0
+          ],
+          "episodes": 20,
+          "failure_count": 0,
+          "failure_rate": 0.0,
+          "mean_return": 500.0,
+          "return_standard_deviation": 0.0,
+          "selector_seed": 303000
+        },
+        "iteration": 20,
+        "new_labels": 500,
+        "preupdate_learner_expert_disagreement_rate": 0.004,
+        "training_failures": 0,
+        "training_segments": 1
+      }
+    ],
+    "smile": [
+      {
+        "alpha": 0.1,
+        "cumulative_labels": 500,
+        "evaluation": {
+          "environment_seed": 40000,
+          "episode_failures": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+          ],
+          "episode_lengths": [
+            94,
+            70,
+            102,
+            147,
+            56,
+            98,
+            88,
+            83,
+            68,
+            56,
+            96,
+            110,
+            125,
+            78,
+            54,
+            90,
+            107,
+            70,
+            55,
+            52
+          ],
+          "episode_returns": [
+            94.0,
+            70.0,
+            102.0,
+            147.0,
+            56.0,
+            98.0,
+            88.0,
+            83.0,
+            68.0,
+            56.0,
+            96.0,
+            110.0,
+            125.0,
+            78.0,
+            54.0,
+            90.0,
+            107.0,
+            70.0,
+            55.0,
+            52.0
+          ],
+          "episodes": 20,
+          "failure_count": 20,
+          "failure_rate": 1.0,
+          "mean_return": 84.95,
+          "return_standard_deviation": 25.17036948477316,
+          "selector_seed": 303000
+        },
+        "iteration": 1,
+        "learned_policy_component_count": 1,
+        "new_labels": 500,
+        "realized_collection_expert_fraction": 1.0,
+        "theoretical_collection_expert_fraction": 1.0,
+        "training_failures": 0,
+        "training_segments": 1
+      },
+      {
+        "alpha": 0.1,
+        "cumulative_labels": 1000,
+        "evaluation": {
+          "environment_seed": 40000,
+          "episode_failures": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+          ],
+          "episode_lengths": [
+            90,
+            62,
+            87,
+            61,
+            69,
+            200,
+            86,
+            64,
+            65,
+            54,
+            89,
+            75,
+            66,
+            94,
+            44,
+            66,
+            106,
+            49,
+            55,
+            52
+          ],
+          "episode_returns": [
+            90.0,
+            62.0,
+            87.0,
+            61.0,
+            69.0,
+            200.0,
+            86.0,
+            64.0,
+            65.0,
+            54.0,
+            89.0,
+            75.0,
+            66.0,
+            94.0,
+            44.0,
+            66.0,
+            106.0,
+            49.0,
+            55.0,
+            52.0
+          ],
+          "episodes": 20,
+          "failure_count": 20,
+          "failure_rate": 1.0,
+          "mean_return": 76.7,
+          "return_standard_deviation": 32.685011855589096,
+          "selector_seed": 303000
+        },
+        "iteration": 2,
+        "learned_policy_component_count": 2,
+        "new_labels": 500,
+        "realized_collection_expert_fraction": 0.916,
+        "theoretical_collection_expert_fraction": 0.9,
+        "training_failures": 0,
+        "training_segments": 1
+      },
+      {
+        "alpha": 0.1,
+        "cumulative_labels": 1500,
+        "evaluation": {
+          "environment_seed": 40000,
+          "episode_failures": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+          ],
+          "episode_lengths": [
+            71,
+            61,
+            185,
+            81,
+            50,
+            110,
+            83,
+            194,
+            54,
+            45,
+            93,
+            74,
+            97,
+            77,
+            48,
+            64,
+            100,
+            54,
+            53,
+            40
+          ],
+          "episode_returns": [
+            71.0,
+            61.0,
+            185.0,
+            81.0,
+            50.0,
+            110.0,
+            83.0,
+            194.0,
+            54.0,
+            45.0,
+            93.0,
+            74.0,
+            97.0,
+            77.0,
+            48.0,
+            64.0,
+            100.0,
+            54.0,
+            53.0,
+            40.0
+          ],
+          "episodes": 20,
+          "failure_count": 20,
+          "failure_rate": 1.0,
+          "mean_return": 81.7,
+          "return_standard_deviation": 40.806984696250225,
+          "selector_seed": 303000
+        },
+        "iteration": 3,
+        "learned_policy_component_count": 3,
+        "new_labels": 500,
+        "realized_collection_expert_fraction": 0.8,
+        "theoretical_collection_expert_fraction": 0.81,
+        "training_failures": 0,
+        "training_segments": 1
+      },
+      {
+        "alpha": 0.1,
+        "cumulative_labels": 2000,
+        "evaluation": {
+          "environment_seed": 40000,
+          "episode_failures": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+          ],
+          "episode_lengths": [
+            58,
+            81,
+            70,
+            217,
+            50,
+            96,
+            96,
+            314,
+            46,
+            46,
+            103,
+            89,
+            66,
+            76,
+            52,
+            92,
+            66,
+            61,
+            44,
+            40
+          ],
+          "episode_returns": [
+            58.0,
+            81.0,
+            70.0,
+            217.0,
+            50.0,
+            96.0,
+            96.0,
+            314.0,
+            46.0,
+            46.0,
+            103.0,
+            89.0,
+            66.0,
+            76.0,
+            52.0,
+            92.0,
+            66.0,
+            61.0,
+            44.0,
+            40.0
+          ],
+          "episodes": 20,
+          "failure_count": 20,
+          "failure_rate": 1.0,
+          "mean_return": 88.15,
+          "return_standard_deviation": 63.9173489750631,
+          "selector_seed": 303000
+        },
+        "iteration": 4,
+        "learned_policy_component_count": 4,
+        "new_labels": 500,
+        "realized_collection_expert_fraction": 0.722,
+        "theoretical_collection_expert_fraction": 0.7290000000000001,
+        "training_failures": 1,
+        "training_segments": 2
+      },
+      {
+        "alpha": 0.1,
+        "cumulative_labels": 2500,
+        "evaluation": {
+          "environment_seed": 40000,
+          "episode_failures": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+          ],
+          "episode_lengths": [
+            66,
+            80,
+            86,
+            75,
+            60,
+            73,
+            99,
+            86,
+            61,
+            55,
+            56,
+            86,
+            60,
+            77,
+            43,
+            114,
+            127,
+            62,
+            55,
+            49
+          ],
+          "episode_returns": [
+            66.0,
+            80.0,
+            86.0,
+            75.0,
+            60.0,
+            73.0,
+            99.0,
+            86.0,
+            61.0,
+            55.0,
+            56.0,
+            86.0,
+            60.0,
+            77.0,
+            43.0,
+            114.0,
+            127.0,
+            62.0,
+            55.0,
+            49.0
+          ],
+          "episodes": 20,
+          "failure_count": 20,
+          "failure_rate": 1.0,
+          "mean_return": 73.5,
+          "return_standard_deviation": 21.10568643754569,
+          "selector_seed": 303000
+        },
+        "iteration": 5,
+        "learned_policy_component_count": 5,
+        "new_labels": 500,
+        "realized_collection_expert_fraction": 0.66,
+        "theoretical_collection_expert_fraction": 0.6561,
+        "training_failures": 1,
+        "training_segments": 2
+      },
+      {
+        "alpha": 0.1,
+        "cumulative_labels": 3000,
+        "evaluation": {
+          "environment_seed": 40000,
+          "episode_failures": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+          ],
+          "episode_lengths": [
+            86,
+            131,
+            75,
+            111,
+            57,
+            163,
+            80,
+            121,
+            50,
+            54,
+            91,
+            192,
+            67,
+            68,
+            50,
+            101,
+            69,
+            65,
+            50,
+            52
+          ],
+          "episode_returns": [
+            86.0,
+            131.0,
+            75.0,
+            111.0,
+            57.0,
+            163.0,
+            80.0,
+            121.0,
+            50.0,
+            54.0,
+            91.0,
+            192.0,
+            67.0,
+            68.0,
+            50.0,
+            101.0,
+            69.0,
+            65.0,
+            50.0,
+            52.0
+          ],
+          "episodes": 20,
+          "failure_count": 20,
+          "failure_rate": 1.0,
+          "mean_return": 86.65,
+          "return_standard_deviation": 38.576255650334964,
+          "selector_seed": 303000
+        },
+        "iteration": 6,
+        "learned_policy_component_count": 6,
+        "new_labels": 500,
+        "realized_collection_expert_fraction": 0.566,
+        "theoretical_collection_expert_fraction": 0.5904900000000001,
+        "training_failures": 2,
+        "training_segments": 3
+      },
+      {
+        "alpha": 0.1,
+        "cumulative_labels": 3500,
+        "evaluation": {
+          "environment_seed": 40000,
+          "episode_failures": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+          ],
+          "episode_lengths": [
+            90,
+            102,
+            67,
+            86,
+            72,
+            114,
+            107,
+            91,
+            83,
+            63,
+            59,
+            120,
+            72,
+            93,
+            59,
+            178,
+            102,
+            84,
+            55,
+            56
+          ],
+          "episode_returns": [
+            90.0,
+            102.0,
+            67.0,
+            86.0,
+            72.0,
+            114.0,
+            107.0,
+            91.0,
+            83.0,
+            63.0,
+            59.0,
+            120.0,
+            72.0,
+            93.0,
+            59.0,
+            178.0,
+            102.0,
+            84.0,
+            55.0,
+            56.0
+          ],
+          "episodes": 20,
+          "failure_count": 20,
+          "failure_rate": 1.0,
+          "mean_return": 87.65,
+          "return_standard_deviation": 28.290060091841443,
+          "selector_seed": 303000
+        },
+        "iteration": 7,
+        "learned_policy_component_count": 7,
+        "new_labels": 500,
+        "realized_collection_expert_fraction": 0.526,
+        "theoretical_collection_expert_fraction": 0.531441,
+        "training_failures": 2,
+        "training_segments": 3
+      },
+      {
+        "alpha": 0.1,
+        "cumulative_labels": 4000,
+        "evaluation": {
+          "environment_seed": 40000,
+          "episode_failures": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+          ],
+          "episode_lengths": [
+            171,
+            168,
+            78,
+            79,
+            77,
+            100,
+            111,
+            148,
+            71,
+            62,
+            52,
+            107,
+            67,
+            121,
+            55,
+            115,
+            126,
+            79,
+            80,
+            86
+          ],
+          "episode_returns": [
+            171.0,
+            168.0,
+            78.0,
+            79.0,
+            77.0,
+            100.0,
+            111.0,
+            148.0,
+            71.0,
+            62.0,
+            52.0,
+            107.0,
+            67.0,
+            121.0,
+            55.0,
+            115.0,
+            126.0,
+            79.0,
+            80.0,
+            86.0
+          ],
+          "episodes": 20,
+          "failure_count": 20,
+          "failure_rate": 1.0,
+          "mean_return": 97.65,
+          "return_standard_deviation": 34.32531864382325,
+          "selector_seed": 303000
+        },
+        "iteration": 8,
+        "learned_policy_component_count": 8,
+        "new_labels": 500,
+        "realized_collection_expert_fraction": 0.466,
+        "theoretical_collection_expert_fraction": 0.4782969000000001,
+        "training_failures": 2,
+        "training_segments": 3
+      },
+      {
+        "alpha": 0.1,
+        "cumulative_labels": 4500,
+        "evaluation": {
+          "environment_seed": 40000,
+          "episode_failures": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+          ],
+          "episode_lengths": [
+            165,
+            119,
+            134,
+            117,
+            75,
+            160,
+            68,
+            103,
+            114,
+            75,
+            56,
+            94,
+            74,
+            98,
+            60,
+            107,
+            185,
+            72,
+            72,
+            87
+          ],
+          "episode_returns": [
+            165.0,
+            119.0,
+            134.0,
+            117.0,
+            75.0,
+            160.0,
+            68.0,
+            103.0,
+            114.0,
+            75.0,
+            56.0,
+            94.0,
+            74.0,
+            98.0,
+            60.0,
+            107.0,
+            185.0,
+            72.0,
+            72.0,
+            87.0
+          ],
+          "episodes": 20,
+          "failure_count": 20,
+          "failure_rate": 1.0,
+          "mean_return": 101.75,
+          "return_standard_deviation": 35.57509662671347,
+          "selector_seed": 303000
+        },
+        "iteration": 9,
+        "learned_policy_component_count": 9,
+        "new_labels": 500,
+        "realized_collection_expert_fraction": 0.446,
+        "theoretical_collection_expert_fraction": 0.4304672100000001,
+        "training_failures": 1,
+        "training_segments": 2
+      },
+      {
+        "alpha": 0.1,
+        "cumulative_labels": 5000,
+        "evaluation": {
+          "environment_seed": 40000,
+          "episode_failures": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+          ],
+          "episode_lengths": [
+            116,
+            103,
+            141,
+            146,
+            77,
+            118,
+            78,
+            116,
+            101,
+            62,
+            69,
+            151,
+            66,
+            153,
+            58,
+            107,
+            116,
+            71,
+            56,
+            91
+          ],
+          "episode_returns": [
+            116.0,
+            103.0,
+            141.0,
+            146.0,
+            77.0,
+            118.0,
+            78.0,
+            116.0,
+            101.0,
+            62.0,
+            69.0,
+            151.0,
+            66.0,
+            153.0,
+            58.0,
+            107.0,
+            116.0,
+            71.0,
+            56.0,
+            91.0
+          ],
+          "episodes": 20,
+          "failure_count": 20,
+          "failure_rate": 1.0,
+          "mean_return": 99.8,
+          "return_standard_deviation": 31.267555069112774,
+          "selector_seed": 303000
+        },
+        "iteration": 10,
+        "learned_policy_component_count": 10,
+        "new_labels": 500,
+        "realized_collection_expert_fraction": 0.442,
+        "theoretical_collection_expert_fraction": 0.3874204890000001,
+        "training_failures": 2,
+        "training_segments": 3
+      },
+      {
+        "alpha": 0.1,
+        "cumulative_labels": 5500,
+        "evaluation": {
+          "environment_seed": 40000,
+          "episode_failures": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+          ],
+          "episode_lengths": [
+            93,
+            118,
+            208,
+            117,
+            57,
+            133,
+            98,
+            229,
+            91,
+            60,
+            79,
+            107,
+            83,
+            141,
+            91,
+            106,
+            82,
+            83,
+            58,
+            80
+          ],
+          "episode_returns": [
+            93.0,
+            118.0,
+            208.0,
+            117.0,
+            57.0,
+            133.0,
+            98.0,
+            229.0,
+            91.0,
+            60.0,
+            79.0,
+            107.0,
+            83.0,
+            141.0,
+            91.0,
+            106.0,
+            82.0,
+            83.0,
+            58.0,
+            80.0
+          ],
+          "episodes": 20,
+          "failure_count": 20,
+          "failure_rate": 1.0,
+          "mean_return": 105.7,
+          "return_standard_deviation": 43.75739937427726,
+          "selector_seed": 303000
+        },
+        "iteration": 11,
+        "learned_policy_component_count": 11,
+        "new_labels": 500,
+        "realized_collection_expert_fraction": 0.346,
+        "theoretical_collection_expert_fraction": 0.3486784401000001,
+        "training_failures": 2,
+        "training_segments": 3
+      },
+      {
+        "alpha": 0.1,
+        "cumulative_labels": 6000,
+        "evaluation": {
+          "environment_seed": 40000,
+          "episode_failures": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+          ],
+          "episode_lengths": [
+            87,
+            104,
+            92,
+            85,
+            73,
+            160,
+            117,
+            146,
+            112,
+            66,
+            81,
+            186,
+            99,
+            133,
+            63,
+            110,
+            89,
+            91,
+            73,
+            70
+          ],
+          "episode_returns": [
+            87.0,
+            104.0,
+            92.0,
+            85.0,
+            73.0,
+            160.0,
+            117.0,
+            146.0,
+            112.0,
+            66.0,
+            81.0,
+            186.0,
+            99.0,
+            133.0,
+            63.0,
+            110.0,
+            89.0,
+            91.0,
+            73.0,
+            70.0
+          ],
+          "episodes": 20,
+          "failure_count": 20,
+          "failure_rate": 1.0,
+          "mean_return": 101.85,
+          "return_standard_deviation": 32.083134198516206,
+          "selector_seed": 303000
+        },
+        "iteration": 12,
+        "learned_policy_component_count": 12,
+        "new_labels": 500,
+        "realized_collection_expert_fraction": 0.274,
+        "theoretical_collection_expert_fraction": 0.31381059609000006,
+        "training_failures": 3,
+        "training_segments": 4
+      },
+      {
+        "alpha": 0.1,
+        "cumulative_labels": 6500,
+        "evaluation": {
+          "environment_seed": 40000,
+          "episode_failures": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+          ],
+          "episode_lengths": [
+            167,
+            105,
+            93,
+            102,
+            79,
+            123,
+            116,
+            117,
+            91,
+            95,
+            71,
+            138,
+            109,
+            220,
+            81,
+            82,
+            128,
+            98,
+            106,
+            127
+          ],
+          "episode_returns": [
+            167.0,
+            105.0,
+            93.0,
+            102.0,
+            79.0,
+            123.0,
+            116.0,
+            117.0,
+            91.0,
+            95.0,
+            71.0,
+            138.0,
+            109.0,
+            220.0,
+            81.0,
+            82.0,
+            128.0,
+            98.0,
+            106.0,
+            127.0
+          ],
+          "episodes": 20,
+          "failure_count": 20,
+          "failure_rate": 1.0,
+          "mean_return": 112.4,
+          "return_standard_deviation": 33.25417267050858,
+          "selector_seed": 303000
+        },
+        "iteration": 13,
+        "learned_policy_component_count": 13,
+        "new_labels": 500,
+        "realized_collection_expert_fraction": 0.294,
+        "theoretical_collection_expert_fraction": 0.2824295364810001,
+        "training_failures": 2,
+        "training_segments": 3
+      },
+      {
+        "alpha": 0.1,
+        "cumulative_labels": 7000,
+        "evaluation": {
+          "environment_seed": 40000,
+          "episode_failures": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+          ],
+          "episode_lengths": [
+            126,
+            111,
+            93,
+            71,
+            117,
+            163,
+            104,
+            98,
+            125,
+            61,
+            70,
+            174,
+            83,
+            133,
+            57,
+            129,
+            112,
+            97,
+            104,
+            84
+          ],
+          "episode_returns": [
+            126.0,
+            111.0,
+            93.0,
+            71.0,
+            117.0,
+            163.0,
+            104.0,
+            98.0,
+            125.0,
+            61.0,
+            70.0,
+            174.0,
+            83.0,
+            133.0,
+            57.0,
+            129.0,
+            112.0,
+            97.0,
+            104.0,
+            84.0
+          ],
+          "episodes": 20,
+          "failure_count": 20,
+          "failure_rate": 1.0,
+          "mean_return": 105.6,
+          "return_standard_deviation": 30.292573347274413,
+          "selector_seed": 303000
+        },
+        "iteration": 14,
+        "learned_policy_component_count": 14,
+        "new_labels": 500,
+        "realized_collection_expert_fraction": 0.218,
+        "theoretical_collection_expert_fraction": 0.2541865828329001,
+        "training_failures": 2,
+        "training_segments": 3
+      },
+      {
+        "alpha": 0.1,
+        "cumulative_labels": 7500,
+        "evaluation": {
+          "environment_seed": 40000,
+          "episode_failures": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+          ],
+          "episode_lengths": [
+            199,
+            128,
+            89,
+            57,
+            105,
+            149,
+            111,
+            91,
+            86,
+            80,
+            69,
+            85,
+            83,
+            133,
+            62,
+            129,
+            100,
+            103,
+            81,
+            148
+          ],
+          "episode_returns": [
+            199.0,
+            128.0,
+            89.0,
+            57.0,
+            105.0,
+            149.0,
+            111.0,
+            91.0,
+            86.0,
+            80.0,
+            69.0,
+            85.0,
+            83.0,
+            133.0,
+            62.0,
+            129.0,
+            100.0,
+            103.0,
+            81.0,
+            148.0
+          ],
+          "episodes": 20,
+          "failure_count": 20,
+          "failure_rate": 1.0,
+          "mean_return": 104.4,
+          "return_standard_deviation": 33.848781366542575,
+          "selector_seed": 303000
+        },
+        "iteration": 15,
+        "learned_policy_component_count": 15,
+        "new_labels": 500,
+        "realized_collection_expert_fraction": 0.224,
+        "theoretical_collection_expert_fraction": 0.2287679245496101,
+        "training_failures": 2,
+        "training_segments": 3
+      },
+      {
+        "alpha": 0.1,
+        "cumulative_labels": 8000,
+        "evaluation": {
+          "environment_seed": 40000,
+          "episode_failures": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+          ],
+          "episode_lengths": [
+            150,
+            195,
+            137,
+            62,
+            92,
+            194,
+            258,
+            76,
+            201,
+            63,
+            69,
+            104,
+            137,
+            129,
+            44,
+            223,
+            92,
+            81,
+            83,
+            170
+          ],
+          "episode_returns": [
+            150.0,
+            195.0,
+            137.0,
+            62.0,
+            92.0,
+            194.0,
+            258.0,
+            76.0,
+            201.0,
+            63.0,
+            69.0,
+            104.0,
+            137.0,
+            129.0,
+            44.0,
+            223.0,
+            92.0,
+            81.0,
+            83.0,
+            170.0
+          ],
+          "episodes": 20,
+          "failure_count": 20,
+          "failure_rate": 1.0,
+          "mean_return": 128.0,
+          "return_standard_deviation": 59.889064110236355,
+          "selector_seed": 303000
+        },
+        "iteration": 16,
+        "learned_policy_component_count": 16,
+        "new_labels": 500,
+        "realized_collection_expert_fraction": 0.182,
+        "theoretical_collection_expert_fraction": 0.20589113209464907,
+        "training_failures": 2,
+        "training_segments": 3
+      },
+      {
+        "alpha": 0.1,
+        "cumulative_labels": 8500,
+        "evaluation": {
+          "environment_seed": 40000,
+          "episode_failures": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+          ],
+          "episode_lengths": [
+            94,
+            144,
+            185,
+            95,
+            89,
+            122,
+            117,
+            81,
+            163,
+            81,
+            75,
+            125,
+            99,
+            177,
+            63,
+            101,
+            199,
+            68,
+            103,
+            148
+          ],
+          "episode_returns": [
+            94.0,
+            144.0,
+            185.0,
+            95.0,
+            89.0,
+            122.0,
+            117.0,
+            81.0,
+            163.0,
+            81.0,
+            75.0,
+            125.0,
+            99.0,
+            177.0,
+            63.0,
+            101.0,
+            199.0,
+            68.0,
+            103.0,
+            148.0
+          ],
+          "episodes": 20,
+          "failure_count": 20,
+          "failure_rate": 1.0,
+          "mean_return": 116.45,
+          "return_standard_deviation": 39.422677483905126,
+          "selector_seed": 303000
+        },
+        "iteration": 17,
+        "learned_policy_component_count": 17,
+        "new_labels": 500,
+        "realized_collection_expert_fraction": 0.206,
+        "theoretical_collection_expert_fraction": 0.18530201888518416,
+        "training_failures": 3,
+        "training_segments": 4
+      },
+      {
+        "alpha": 0.1,
+        "cumulative_labels": 9000,
+        "evaluation": {
+          "environment_seed": 40000,
+          "episode_failures": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+          ],
+          "episode_lengths": [
+            174,
+            131,
+            194,
+            78,
+            162,
+            79,
+            135,
+            98,
+            181,
+            185,
+            87,
+            95,
+            157,
+            175,
+            72,
+            108,
+            127,
+            58,
+            82,
+            150
+          ],
+          "episode_returns": [
+            174.0,
+            131.0,
+            194.0,
+            78.0,
+            162.0,
+            79.0,
+            135.0,
+            98.0,
+            181.0,
+            185.0,
+            87.0,
+            95.0,
+            157.0,
+            175.0,
+            72.0,
+            108.0,
+            127.0,
+            58.0,
+            82.0,
+            150.0
+          ],
+          "episodes": 20,
+          "failure_count": 20,
+          "failure_rate": 1.0,
+          "mean_return": 126.4,
+          "return_standard_deviation": 42.63261662154928,
+          "selector_seed": 303000
+        },
+        "iteration": 18,
+        "learned_policy_component_count": 18,
+        "new_labels": 500,
+        "realized_collection_expert_fraction": 0.15,
+        "theoretical_collection_expert_fraction": 0.16677181699666577,
+        "training_failures": 3,
+        "training_segments": 4
+      },
+      {
+        "alpha": 0.1,
+        "cumulative_labels": 9500,
+        "evaluation": {
+          "environment_seed": 40000,
+          "episode_failures": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+          ],
+          "episode_lengths": [
+            198,
+            117,
+            218,
+            123,
+            107,
+            82,
+            116,
+            110,
+            86,
+            103,
+            78,
+            117,
+            163,
+            213,
+            68,
+            108,
+            115,
+            58,
+            91,
+            160
+          ],
+          "episode_returns": [
+            198.0,
+            117.0,
+            218.0,
+            123.0,
+            107.0,
+            82.0,
+            116.0,
+            110.0,
+            86.0,
+            103.0,
+            78.0,
+            117.0,
+            163.0,
+            213.0,
+            68.0,
+            108.0,
+            115.0,
+            58.0,
+            91.0,
+            160.0
+          ],
+          "episodes": 20,
+          "failure_count": 20,
+          "failure_rate": 1.0,
+          "mean_return": 121.55,
+          "return_standard_deviation": 44.86699789377489,
+          "selector_seed": 303000
+        },
+        "iteration": 19,
+        "learned_policy_component_count": 19,
+        "new_labels": 500,
+        "realized_collection_expert_fraction": 0.136,
+        "theoretical_collection_expert_fraction": 0.15009463529699918,
+        "training_failures": 3,
+        "training_segments": 4
+      },
+      {
+        "alpha": 0.1,
+        "cumulative_labels": 10000,
+        "evaluation": {
+          "environment_seed": 40000,
+          "episode_failures": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+          ],
+          "episode_lengths": [
+            126,
+            117,
+            144,
+            105,
+            77,
+            172,
+            100,
+            153,
+            150,
+            60,
+            84,
+            165,
+            121,
+            118,
+            56,
+            101,
+            193,
+            75,
+            91,
+            93
+          ],
+          "episode_returns": [
+            126.0,
+            117.0,
+            144.0,
+            105.0,
+            77.0,
+            172.0,
+            100.0,
+            153.0,
+            150.0,
+            60.0,
+            84.0,
+            165.0,
+            121.0,
+            118.0,
+            56.0,
+            101.0,
+            193.0,
+            75.0,
+            91.0,
+            93.0
+          ],
+          "episodes": 20,
+          "failure_count": 20,
+          "failure_rate": 1.0,
+          "mean_return": 115.05,
+          "return_standard_deviation": 37.15168233068322,
+          "selector_seed": 303000
+        },
+        "iteration": 20,
+        "learned_policy_component_count": 20,
+        "new_labels": 500,
+        "realized_collection_expert_fraction": 0.146,
+        "theoretical_collection_expert_fraction": 0.13508517176729928,
+        "training_failures": 3,
+        "training_segments": 4
+      }
+    ],
+    "supervised": [
+      {
+        "cumulative_labels": 500,
+        "evaluation": {
+          "environment_seed": 40000,
+          "episode_failures": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+          ],
+          "episode_lengths": [
+            94,
+            70,
+            102,
+            147,
+            56,
+            98,
+            88,
+            83,
+            68,
+            56,
+            96,
+            110,
+            125,
+            78,
+            54,
+            90,
+            107,
+            70,
+            55,
+            52
+          ],
+          "episode_returns": [
+            94.0,
+            70.0,
+            102.0,
+            147.0,
+            56.0,
+            98.0,
+            88.0,
+            83.0,
+            68.0,
+            56.0,
+            96.0,
+            110.0,
+            125.0,
+            78.0,
+            54.0,
+            90.0,
+            107.0,
+            70.0,
+            55.0,
+            52.0
+          ],
+          "episodes": 20,
+          "failure_count": 20,
+          "failure_rate": 1.0,
+          "mean_return": 84.95,
+          "return_standard_deviation": 25.17036948477316,
+          "selector_seed": 303000
+        },
+        "iteration": 1,
+        "new_labels": 500,
+        "training_failures": 0,
+        "training_segments": 1
+      },
+      {
+        "cumulative_labels": 1000,
+        "evaluation": {
+          "environment_seed": 40000,
+          "episode_failures": [
+            1,
+            0,
+            1,
+            1,
+            1,
+            0,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            0,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+          ],
+          "episode_lengths": [
+            111,
+            500,
+            267,
+            164,
+            73,
+            500,
+            208,
+            85,
+            73,
+            61,
+            99,
+            467,
+            198,
+            500,
+            59,
+            92,
+            114,
+            71,
+            73,
+            63
+          ],
+          "episode_returns": [
+            111.0,
+            500.0,
+            267.0,
+            164.0,
+            73.0,
+            500.0,
+            208.0,
+            85.0,
+            73.0,
+            61.0,
+            99.0,
+            467.0,
+            198.0,
+            500.0,
+            59.0,
+            92.0,
+            114.0,
+            71.0,
+            73.0,
+            63.0
+          ],
+          "episodes": 20,
+          "failure_count": 17,
+          "failure_rate": 0.85,
+          "mean_return": 188.9,
+          "return_standard_deviation": 160.9477865644632,
+          "selector_seed": 303000
+        },
+        "iteration": 2,
+        "new_labels": 500,
+        "training_failures": 0,
+        "training_segments": 1
+      },
+      {
+        "cumulative_labels": 1500,
+        "evaluation": {
+          "environment_seed": 40000,
+          "episode_failures": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            1,
+            1,
+            0,
+            0,
+            0,
+            1,
+            0,
+            1,
+            1,
+            1,
+            1
+          ],
+          "episode_lengths": [
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            78,
+            68,
+            110,
+            500,
+            500,
+            500,
+            67,
+            500,
+            128,
+            87,
+            82,
+            87
+          ],
+          "episode_returns": [
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            78.0,
+            68.0,
+            110.0,
+            500.0,
+            500.0,
+            500.0,
+            67.0,
+            500.0,
+            128.0,
+            87.0,
+            82.0,
+            87.0
+          ],
+          "episodes": 20,
+          "failure_count": 8,
+          "failure_rate": 0.4,
+          "mean_return": 335.35,
+          "return_standard_deviation": 202.0334811361721,
+          "selector_seed": 303000
+        },
+        "iteration": 3,
+        "new_labels": 500,
+        "training_failures": 0,
+        "training_segments": 1
+      },
+      {
+        "cumulative_labels": 2000,
+        "evaluation": {
+          "environment_seed": 40000,
+          "episode_failures": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            1,
+            1,
+            0,
+            0,
+            0,
+            1,
+            0,
+            1,
+            1,
+            1,
+            1
+          ],
+          "episode_lengths": [
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            113,
+            107,
+            160,
+            500,
+            500,
+            500,
+            100,
+            500,
+            173,
+            113,
+            129,
+            123
+          ],
+          "episode_returns": [
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            113.0,
+            107.0,
+            160.0,
+            500.0,
+            500.0,
+            500.0,
+            100.0,
+            500.0,
+            173.0,
+            113.0,
+            129.0,
+            123.0
+          ],
+          "episodes": 20,
+          "failure_count": 8,
+          "failure_rate": 0.4,
+          "mean_return": 350.9,
+          "return_standard_deviation": 183.25798754761007,
+          "selector_seed": 303000
+        },
+        "iteration": 4,
+        "new_labels": 500,
+        "training_failures": 0,
+        "training_segments": 1
+      },
+      {
+        "cumulative_labels": 2500,
+        "evaluation": {
+          "environment_seed": 40000,
+          "episode_failures": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "episode_lengths": [
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500
+          ],
+          "episode_returns": [
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0
+          ],
+          "episodes": 20,
+          "failure_count": 0,
+          "failure_rate": 0.0,
+          "mean_return": 500.0,
+          "return_standard_deviation": 0.0,
+          "selector_seed": 303000
+        },
+        "iteration": 5,
+        "new_labels": 500,
+        "training_failures": 0,
+        "training_segments": 1
+      },
+      {
+        "cumulative_labels": 3000,
+        "evaluation": {
+          "environment_seed": 40000,
+          "episode_failures": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "episode_lengths": [
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500
+          ],
+          "episode_returns": [
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0
+          ],
+          "episodes": 20,
+          "failure_count": 0,
+          "failure_rate": 0.0,
+          "mean_return": 500.0,
+          "return_standard_deviation": 0.0,
+          "selector_seed": 303000
+        },
+        "iteration": 6,
+        "new_labels": 500,
+        "training_failures": 0,
+        "training_segments": 1
+      },
+      {
+        "cumulative_labels": 3500,
+        "evaluation": {
+          "environment_seed": 40000,
+          "episode_failures": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "episode_lengths": [
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500
+          ],
+          "episode_returns": [
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0
+          ],
+          "episodes": 20,
+          "failure_count": 0,
+          "failure_rate": 0.0,
+          "mean_return": 500.0,
+          "return_standard_deviation": 0.0,
+          "selector_seed": 303000
+        },
+        "iteration": 7,
+        "new_labels": 500,
+        "training_failures": 0,
+        "training_segments": 1
+      },
+      {
+        "cumulative_labels": 4000,
+        "evaluation": {
+          "environment_seed": 40000,
+          "episode_failures": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "episode_lengths": [
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500
+          ],
+          "episode_returns": [
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0
+          ],
+          "episodes": 20,
+          "failure_count": 0,
+          "failure_rate": 0.0,
+          "mean_return": 500.0,
+          "return_standard_deviation": 0.0,
+          "selector_seed": 303000
+        },
+        "iteration": 8,
+        "new_labels": 500,
+        "training_failures": 0,
+        "training_segments": 1
+      },
+      {
+        "cumulative_labels": 4500,
+        "evaluation": {
+          "environment_seed": 40000,
+          "episode_failures": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "episode_lengths": [
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500
+          ],
+          "episode_returns": [
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0
+          ],
+          "episodes": 20,
+          "failure_count": 0,
+          "failure_rate": 0.0,
+          "mean_return": 500.0,
+          "return_standard_deviation": 0.0,
+          "selector_seed": 303000
+        },
+        "iteration": 9,
+        "new_labels": 500,
+        "training_failures": 0,
+        "training_segments": 1
+      },
+      {
+        "cumulative_labels": 5000,
+        "evaluation": {
+          "environment_seed": 40000,
+          "episode_failures": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "episode_lengths": [
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500
+          ],
+          "episode_returns": [
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0
+          ],
+          "episodes": 20,
+          "failure_count": 0,
+          "failure_rate": 0.0,
+          "mean_return": 500.0,
+          "return_standard_deviation": 0.0,
+          "selector_seed": 303000
+        },
+        "iteration": 10,
+        "new_labels": 500,
+        "training_failures": 0,
+        "training_segments": 1
+      },
+      {
+        "cumulative_labels": 5500,
+        "evaluation": {
+          "environment_seed": 40000,
+          "episode_failures": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "episode_lengths": [
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500
+          ],
+          "episode_returns": [
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0
+          ],
+          "episodes": 20,
+          "failure_count": 0,
+          "failure_rate": 0.0,
+          "mean_return": 500.0,
+          "return_standard_deviation": 0.0,
+          "selector_seed": 303000
+        },
+        "iteration": 11,
+        "new_labels": 500,
+        "training_failures": 0,
+        "training_segments": 1
+      },
+      {
+        "cumulative_labels": 6000,
+        "evaluation": {
+          "environment_seed": 40000,
+          "episode_failures": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "episode_lengths": [
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500
+          ],
+          "episode_returns": [
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0
+          ],
+          "episodes": 20,
+          "failure_count": 0,
+          "failure_rate": 0.0,
+          "mean_return": 500.0,
+          "return_standard_deviation": 0.0,
+          "selector_seed": 303000
+        },
+        "iteration": 12,
+        "new_labels": 500,
+        "training_failures": 0,
+        "training_segments": 1
+      },
+      {
+        "cumulative_labels": 6500,
+        "evaluation": {
+          "environment_seed": 40000,
+          "episode_failures": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "episode_lengths": [
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500
+          ],
+          "episode_returns": [
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0
+          ],
+          "episodes": 20,
+          "failure_count": 0,
+          "failure_rate": 0.0,
+          "mean_return": 500.0,
+          "return_standard_deviation": 0.0,
+          "selector_seed": 303000
+        },
+        "iteration": 13,
+        "new_labels": 500,
+        "training_failures": 0,
+        "training_segments": 1
+      },
+      {
+        "cumulative_labels": 7000,
+        "evaluation": {
+          "environment_seed": 40000,
+          "episode_failures": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "episode_lengths": [
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500
+          ],
+          "episode_returns": [
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0
+          ],
+          "episodes": 20,
+          "failure_count": 0,
+          "failure_rate": 0.0,
+          "mean_return": 500.0,
+          "return_standard_deviation": 0.0,
+          "selector_seed": 303000
+        },
+        "iteration": 14,
+        "new_labels": 500,
+        "training_failures": 0,
+        "training_segments": 1
+      },
+      {
+        "cumulative_labels": 7500,
+        "evaluation": {
+          "environment_seed": 40000,
+          "episode_failures": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "episode_lengths": [
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500
+          ],
+          "episode_returns": [
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0
+          ],
+          "episodes": 20,
+          "failure_count": 0,
+          "failure_rate": 0.0,
+          "mean_return": 500.0,
+          "return_standard_deviation": 0.0,
+          "selector_seed": 303000
+        },
+        "iteration": 15,
+        "new_labels": 500,
+        "training_failures": 0,
+        "training_segments": 1
+      },
+      {
+        "cumulative_labels": 8000,
+        "evaluation": {
+          "environment_seed": 40000,
+          "episode_failures": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "episode_lengths": [
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500
+          ],
+          "episode_returns": [
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0
+          ],
+          "episodes": 20,
+          "failure_count": 0,
+          "failure_rate": 0.0,
+          "mean_return": 500.0,
+          "return_standard_deviation": 0.0,
+          "selector_seed": 303000
+        },
+        "iteration": 16,
+        "new_labels": 500,
+        "training_failures": 0,
+        "training_segments": 1
+      },
+      {
+        "cumulative_labels": 8500,
+        "evaluation": {
+          "environment_seed": 40000,
+          "episode_failures": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "episode_lengths": [
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500
+          ],
+          "episode_returns": [
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0
+          ],
+          "episodes": 20,
+          "failure_count": 0,
+          "failure_rate": 0.0,
+          "mean_return": 500.0,
+          "return_standard_deviation": 0.0,
+          "selector_seed": 303000
+        },
+        "iteration": 17,
+        "new_labels": 500,
+        "training_failures": 0,
+        "training_segments": 1
+      },
+      {
+        "cumulative_labels": 9000,
+        "evaluation": {
+          "environment_seed": 40000,
+          "episode_failures": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "episode_lengths": [
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500
+          ],
+          "episode_returns": [
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0
+          ],
+          "episodes": 20,
+          "failure_count": 0,
+          "failure_rate": 0.0,
+          "mean_return": 500.0,
+          "return_standard_deviation": 0.0,
+          "selector_seed": 303000
+        },
+        "iteration": 18,
+        "new_labels": 500,
+        "training_failures": 0,
+        "training_segments": 1
+      },
+      {
+        "cumulative_labels": 9500,
+        "evaluation": {
+          "environment_seed": 40000,
+          "episode_failures": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "episode_lengths": [
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500
+          ],
+          "episode_returns": [
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0
+          ],
+          "episodes": 20,
+          "failure_count": 0,
+          "failure_rate": 0.0,
+          "mean_return": 500.0,
+          "return_standard_deviation": 0.0,
+          "selector_seed": 303000
+        },
+        "iteration": 19,
+        "new_labels": 500,
+        "training_failures": 0,
+        "training_segments": 1
+      },
+      {
+        "cumulative_labels": 10000,
+        "evaluation": {
+          "environment_seed": 40000,
+          "episode_failures": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "episode_lengths": [
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500
+          ],
+          "episode_returns": [
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0,
+            500.0
+          ],
+          "episodes": 20,
+          "failure_count": 0,
+          "failure_rate": 0.0,
+          "mean_return": 500.0,
+          "return_standard_deviation": 0.0,
+          "selector_seed": 303000
+        },
+        "iteration": 20,
+        "new_labels": 500,
+        "training_failures": 0,
+        "training_segments": 1
+      }
+    ]
+  },
+  "protocol": {
+    "bc_epochs_per_iteration": 4,
+    "dagger_beta": "1 at iteration 1; 0 thereafter",
+    "evaluation_episodes_per_checkpoint": 20,
+    "evaluation_seed": 40000,
+    "failure_definition": "CartPole terminated before the 500-step TimeLimit",
+    "iterations": 20,
+    "labels_per_iteration": 500,
+    "learner": "imitation FeedForward32Policy [32,32]",
+    "smile_alpha": 0.1,
+    "supervised_collection": "rule expert only"
+  },
+  "seed": 3,
+  "source_paper": "Ross, Gordon, and Bagnell (2011), Super Tux Kart protocol adaptation",
+  "versions": {
+    "gymnasium": "0.29.1",
+    "imitation": "1.0.1",
+    "numpy": "1.26.4",
+    "stable_baselines3": "2.2.1",
+    "torch": "2.2.2+cpu"
+  }
+}
+Persistent run artifacts: /home/rakibul/Desktop/rl project/Final Project/original_paper_cartpole_comparison/outputs/paper_style_cartpole_v1/runs/seed_3

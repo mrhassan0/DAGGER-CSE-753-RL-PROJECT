@@ -1,0 +1,532 @@
+Saving the dataset (0/1 shards):   0%|          | 0/1 [00:00<?, ? examples/s]Saving the dataset (1/1 shards): 100%|██████████| 1/1 [00:00<00:00, 383.04 examples/s]Saving the dataset (1/1 shards): 100%|██████████| 1/1 [00:00<00:00, 368.76 examples/s]
+Saving the dataset (0/1 shards):   0%|          | 0/1 [00:00<?, ? examples/s]Saving the dataset (1/1 shards): 100%|██████████| 1/1 [00:00<00:00, 265.04 examples/s]Saving the dataset (1/1 shards): 100%|██████████| 1/1 [00:00<00:00, 246.83 examples/s]
+Saving the dataset (0/1 shards):   0%|          | 0/1 [00:00<?, ? examples/s]Saving the dataset (1/1 shards): 100%|██████████| 1/1 [00:00<00:00, 405.52 examples/s]Saving the dataset (1/1 shards): 100%|██████████| 1/1 [00:00<00:00, 380.88 examples/s]
+---------------------------------
+| batch_size        | 32        |
+| bc/               |           |
+|    batch          | 0         |
+|    ent_loss       | -0.000693 |
+|    entropy        | 0.693     |
+|    epoch          | 0         |
+|    l2_loss        | 0         |
+|    l2_norm        | 72.5      |
+|    loss           | 0.692     |
+|    neglogp        | 0.693     |
+|    prob_true_act  | 0.5       |
+|    samples_so_far | 32        |
+| rollout/          |           |
+|    return_max     | 45        |
+|    return_mean    | 26.8      |
+|    return_min     | 11        |
+|    return_std     | 12        |
+---------------------------------
+Saving the dataset (0/1 shards):   0%|          | 0/1 [00:00<?, ? examples/s]Saving the dataset (1/1 shards): 100%|██████████| 1/1 [00:00<00:00, 447.87 examples/s]Saving the dataset (1/1 shards): 100%|██████████| 1/1 [00:00<00:00, 430.63 examples/s]
+Saving the dataset (0/1 shards):   0%|          | 0/1 [00:00<?, ? examples/s]Saving the dataset (1/1 shards): 100%|██████████| 1/1 [00:00<00:00, 462.44 examples/s]Saving the dataset (1/1 shards): 100%|██████████| 1/1 [00:00<00:00, 446.06 examples/s]
+Saving the dataset (0/1 shards):   0%|          | 0/1 [00:00<?, ? examples/s]Saving the dataset (1/1 shards): 100%|██████████| 1/1 [00:00<00:00, 453.73 examples/s]Saving the dataset (1/1 shards): 100%|██████████| 1/1 [00:00<00:00, 437.32 examples/s]
+---------------------------------
+| batch_size        | 32        |
+| bc/               |           |
+|    batch          | 0         |
+|    ent_loss       | -0.000348 |
+|    entropy        | 0.348     |
+|    epoch          | 0         |
+|    l2_loss        | 0         |
+|    l2_norm        | 87.8      |
+|    loss           | 0.453     |
+|    neglogp        | 0.453     |
+|    prob_true_act  | 0.74      |
+|    samples_so_far | 32        |
+| rollout/          |           |
+|    return_max     | 111       |
+|    return_mean    | 81        |
+|    return_min     | 55        |
+|    return_std     | 22.2      |
+---------------------------------
+Saving the dataset (0/1 shards):   0%|          | 0/1 [00:00<?, ? examples/s]Saving the dataset (1/1 shards): 100%|██████████| 1/1 [00:00<00:00, 443.14 examples/s]Saving the dataset (1/1 shards): 100%|██████████| 1/1 [00:00<00:00, 425.60 examples/s]
+Saving the dataset (0/1 shards):   0%|          | 0/1 [00:00<?, ? examples/s]Saving the dataset (1/1 shards): 100%|██████████| 1/1 [00:00<00:00, 455.90 examples/s]Saving the dataset (1/1 shards): 100%|██████████| 1/1 [00:00<00:00, 438.64 examples/s]
+Saving the dataset (0/1 shards):   0%|          | 0/1 [00:00<?, ? examples/s]Saving the dataset (1/1 shards): 100%|██████████| 1/1 [00:00<00:00, 429.66 examples/s]Saving the dataset (1/1 shards): 100%|██████████| 1/1 [00:00<00:00, 397.72 examples/s]
+---------------------------------
+| batch_size        | 32        |
+| bc/               |           |
+|    batch          | 0         |
+|    ent_loss       | -0.000276 |
+|    entropy        | 0.276     |
+|    epoch          | 0         |
+|    l2_loss        | 0         |
+|    l2_norm        | 119       |
+|    loss           | 0.206     |
+|    neglogp        | 0.206     |
+|    prob_true_act  | 0.842     |
+|    samples_so_far | 32        |
+| rollout/          |           |
+|    return_max     | 500       |
+|    return_mean    | 500       |
+|    return_min     | 500       |
+|    return_std     | 0         |
+---------------------------------
+---------------------------------
+| batch_size        | 32        |
+| bc/               |           |
+|    batch          | 500       |
+|    ent_loss       | -0.000129 |
+|    entropy        | 0.129     |
+|    epoch          | 3         |
+|    l2_loss        | 0         |
+|    l2_norm        | 207       |
+|    loss           | 0.0888    |
+|    neglogp        | 0.089     |
+|    prob_true_act  | 0.931     |
+|    samples_so_far | 16032     |
+| rollout/          |           |
+|    return_max     | 500       |
+|    return_mean    | 500       |
+|    return_min     | 500       |
+|    return_std     | 0         |
+---------------------------------
+Saving the dataset (0/1 shards):   0%|          | 0/1 [00:00<?, ? examples/s]Saving the dataset (1/1 shards): 100%|██████████| 1/1 [00:00<00:00, 447.68 examples/s]Saving the dataset (1/1 shards): 100%|██████████| 1/1 [00:00<00:00, 430.19 examples/s]
+Saving the dataset (0/1 shards):   0%|          | 0/1 [00:00<?, ? examples/s]Saving the dataset (1/1 shards): 100%|██████████| 1/1 [00:00<00:00, 452.17 examples/s]Saving the dataset (1/1 shards): 100%|██████████| 1/1 [00:00<00:00, 434.15 examples/s]
+Saving the dataset (0/1 shards):   0%|          | 0/1 [00:00<?, ? examples/s]Saving the dataset (1/1 shards): 100%|██████████| 1/1 [00:00<00:00, 475.01 examples/s]Saving the dataset (1/1 shards): 100%|██████████| 1/1 [00:00<00:00, 455.70 examples/s]
+---------------------------------
+| batch_size        | 32        |
+| bc/               |           |
+|    batch          | 0         |
+|    ent_loss       | -0.000168 |
+|    entropy        | 0.168     |
+|    epoch          | 0         |
+|    l2_loss        | 0         |
+|    l2_norm        | 217       |
+|    loss           | 0.0788    |
+|    neglogp        | 0.079     |
+|    prob_true_act  | 0.931     |
+|    samples_so_far | 32        |
+| rollout/          |           |
+|    return_max     | 500       |
+|    return_mean    | 500       |
+|    return_min     | 500       |
+|    return_std     | 0         |
+---------------------------------
+---------------------------------
+| batch_size        | 32        |
+| bc/               |           |
+|    batch          | 500       |
+|    ent_loss       | -0.000116 |
+|    entropy        | 0.116     |
+|    epoch          | 2         |
+|    l2_loss        | 0         |
+|    l2_norm        | 292       |
+|    loss           | 0.068     |
+|    neglogp        | 0.0681    |
+|    prob_true_act  | 0.945     |
+|    samples_so_far | 16032     |
+| rollout/          |           |
+|    return_max     | 500       |
+|    return_mean    | 500       |
+|    return_min     | 500       |
+|    return_std     | 0         |
+---------------------------------
+Saving the dataset (0/1 shards):   0%|          | 0/1 [00:00<?, ? examples/s]Saving the dataset (1/1 shards): 100%|██████████| 1/1 [00:00<00:00, 438.55 examples/s]Saving the dataset (1/1 shards): 100%|██████████| 1/1 [00:00<00:00, 422.00 examples/s]
+Saving the dataset (0/1 shards):   0%|          | 0/1 [00:00<?, ? examples/s]Saving the dataset (1/1 shards): 100%|██████████| 1/1 [00:00<00:00, 446.87 examples/s]Saving the dataset (1/1 shards): 100%|██████████| 1/1 [00:00<00:00, 416.56 examples/s]
+Saving the dataset (0/1 shards):   0%|          | 0/1 [00:00<?, ? examples/s]Saving the dataset (1/1 shards): 100%|██████████| 1/1 [00:00<00:00, 440.67 examples/s]Saving the dataset (1/1 shards): 100%|██████████| 1/1 [00:00<00:00, 410.24 examples/s]
+---------------------------------
+| batch_size        | 32        |
+| bc/               |           |
+|    batch          | 0         |
+|    ent_loss       | -0.000162 |
+|    entropy        | 0.162     |
+|    epoch          | 0         |
+|    l2_loss        | 0         |
+|    l2_norm        | 323       |
+|    loss           | 0.0815    |
+|    neglogp        | 0.0816    |
+|    prob_true_act  | 0.931     |
+|    samples_so_far | 32        |
+| rollout/          |           |
+|    return_max     | 500       |
+|    return_mean    | 500       |
+|    return_min     | 500       |
+|    return_std     | 0         |
+---------------------------------
+---------------------------------
+| batch_size        | 32        |
+| bc/               |           |
+|    batch          | 500       |
+|    ent_loss       | -0.000106 |
+|    entropy        | 0.106     |
+|    epoch          | 2         |
+|    l2_loss        | 0         |
+|    l2_norm        | 380       |
+|    loss           | 0.128     |
+|    neglogp        | 0.128     |
+|    prob_true_act  | 0.916     |
+|    samples_so_far | 16032     |
+| rollout/          |           |
+|    return_max     | 500       |
+|    return_mean    | 500       |
+|    return_min     | 500       |
+|    return_std     | 0         |
+---------------------------------
+Saving the dataset (0/1 shards):   0%|          | 0/1 [00:00<?, ? examples/s]Saving the dataset (1/1 shards): 100%|██████████| 1/1 [00:00<00:00, 441.46 examples/s]Saving the dataset (1/1 shards): 100%|██████████| 1/1 [00:00<00:00, 424.31 examples/s]
+Saving the dataset (0/1 shards):   0%|          | 0/1 [00:00<?, ? examples/s]Saving the dataset (1/1 shards): 100%|██████████| 1/1 [00:00<00:00, 414.83 examples/s]Saving the dataset (1/1 shards): 100%|██████████| 1/1 [00:00<00:00, 400.26 examples/s]
+Saving the dataset (0/1 shards):   0%|          | 0/1 [00:00<?, ? examples/s]Saving the dataset (1/1 shards): 100%|██████████| 1/1 [00:00<00:00, 438.41 examples/s]Saving the dataset (1/1 shards): 100%|██████████| 1/1 [00:00<00:00, 421.07 examples/s]
+---------------------------------
+| batch_size        | 32        |
+| bc/               |           |
+|    batch          | 0         |
+|    ent_loss       | -5.07e-05 |
+|    entropy        | 0.0507    |
+|    epoch          | 0         |
+|    l2_loss        | 0         |
+|    l2_norm        | 422       |
+|    loss           | 0.0317    |
+|    neglogp        | 0.0317    |
+|    prob_true_act  | 0.976     |
+|    samples_so_far | 32        |
+| rollout/          |           |
+|    return_max     | 500       |
+|    return_mean    | 500       |
+|    return_min     | 500       |
+|    return_std     | 0         |
+---------------------------------
+---------------------------------
+| batch_size        | 32        |
+| bc/               |           |
+|    batch          | 500       |
+|    ent_loss       | -1.75e-05 |
+|    entropy        | 0.0175    |
+|    epoch          | 1         |
+|    l2_loss        | 0         |
+|    l2_norm        | 470       |
+|    loss           | 0.00601   |
+|    neglogp        | 0.00603   |
+|    prob_true_act  | 0.994     |
+|    samples_so_far | 16032     |
+| rollout/          |           |
+|    return_max     | 500       |
+|    return_mean    | 500       |
+|    return_min     | 500       |
+|    return_std     | 0         |
+---------------------------------
+---------------------------------
+| batch_size        | 32        |
+| bc/               |           |
+|    batch          | 1000      |
+|    ent_loss       | -6.36e-05 |
+|    entropy        | 0.0636    |
+|    epoch          | 3         |
+|    l2_loss        | 0         |
+|    l2_norm        | 508       |
+|    loss           | 0.0324    |
+|    neglogp        | 0.0324    |
+|    prob_true_act  | 0.973     |
+|    samples_so_far | 32032     |
+| rollout/          |           |
+|    return_max     | 500       |
+|    return_mean    | 500       |
+|    return_min     | 500       |
+|    return_std     | 0         |
+---------------------------------
+{
+  "dagger": {
+    "actual_demonstration_timesteps": 9000,
+    "beta_decay": 0.5,
+    "beta_schedule": "exponential",
+    "demonstration_directories": [
+      "dagger/demos/round-000/dagger-demo-0-7171495c1fe54d058e114cf7e6adb892.npz",
+      "dagger/demos/round-000/dagger-demo-0-c64aaa8d22a1411490ae662f76f50ee0.npz",
+      "dagger/demos/round-000/dagger-demo-0-d73a47c634cd497fbba258538b53986f.npz",
+      "dagger/demos/round-001/dagger-demo-0-c0856b8a771d412c9f069d0616f527c0.npz",
+      "dagger/demos/round-001/dagger-demo-0-c448eb08f61540e2b8a24cc6d9ea3578.npz",
+      "dagger/demos/round-001/dagger-demo-0-e463120e26a64a4391293c914fe5ad4f.npz",
+      "dagger/demos/round-002/dagger-demo-0-03035beb5f4644758e42022ff34237a4.npz",
+      "dagger/demos/round-002/dagger-demo-0-4ed3512adb4140ad899c5c40e8b45e66.npz",
+      "dagger/demos/round-002/dagger-demo-0-d7903b5bbaf74b00bbc0f480b96b8d76.npz",
+      "dagger/demos/round-003/dagger-demo-0-3087ada5cb7a41b2afc269fd03cb80ad.npz",
+      "dagger/demos/round-003/dagger-demo-0-429fcd9dfdc84ec68db44ffe984fbbb5.npz",
+      "dagger/demos/round-003/dagger-demo-0-bdc1a50fcd6a4ebe97d751358f0b262c.npz",
+      "dagger/demos/round-004/dagger-demo-0-2a24df1b61f64342b51a8653b4b10a84.npz",
+      "dagger/demos/round-004/dagger-demo-0-68f2ae3c168f4efabba4e0a2fe7851f4.npz",
+      "dagger/demos/round-004/dagger-demo-0-94b2db8b3bc54dfc839409f108fa3708.npz",
+      "dagger/demos/round-005/dagger-demo-0-343f16cff6cf48e9865f9a4c545f1263.npz",
+      "dagger/demos/round-005/dagger-demo-0-6a2a4a371a0c4c8e853637f4c660ee15.npz",
+      "dagger/demos/round-005/dagger-demo-0-bba6adc90bfd41f18a25c7628e65be42.npz"
+    ],
+    "demonstration_timesteps": 9000,
+    "demonstration_trajectory_count": 18,
+    "evaluation_episode_rewards": [
+      500.0,
+      500.0,
+      500.0,
+      500.0,
+      500.0,
+      500.0,
+      500.0,
+      500.0,
+      500.0,
+      500.0,
+      500.0,
+      500.0,
+      500.0,
+      500.0,
+      500.0,
+      500.0,
+      500.0,
+      500.0,
+      500.0,
+      500.0
+    ],
+    "implementation": "imitation.algorithms.dagger.SimpleDAggerTrainer",
+    "mean_reward": 500.0,
+    "policy_state_dict": "dagger/dagger_policy_state_dict.pt",
+    "requested_training_timesteps": 8000,
+    "reward_standard_deviation": 0.0,
+    "round_log": [
+      {
+        "beta": 1.0,
+        "cumulative_dagger_timesteps": 1500,
+        "evaluation_episodes": 20,
+        "evaluation_seed": 40000,
+        "learner_episode_returns": [
+          116.0,
+          133.0,
+          231.0,
+          286.0,
+          73.0,
+          473.0,
+          211.0,
+          163.0,
+          76.0,
+          59.0,
+          101.0,
+          199.0,
+          255.0,
+          207.0,
+          59.0,
+          96.0,
+          114.0,
+          79.0,
+          73.0,
+          65.0
+        ],
+        "learner_mean_return": 153.45,
+        "learner_return_std": 100.978450671418,
+        "round": 0,
+        "round_timesteps": 1500
+      },
+      {
+        "beta": 0.5,
+        "cumulative_dagger_timesteps": 3000,
+        "evaluation_episodes": 20,
+        "evaluation_seed": 40000,
+        "learner_episode_returns": [
+          500.0,
+          500.0,
+          500.0,
+          500.0,
+          500.0,
+          500.0,
+          500.0,
+          500.0,
+          500.0,
+          500.0,
+          500.0,
+          500.0,
+          500.0,
+          500.0,
+          500.0,
+          500.0,
+          500.0,
+          500.0,
+          500.0,
+          500.0
+        ],
+        "learner_mean_return": 500.0,
+        "learner_return_std": 0.0,
+        "round": 1,
+        "round_timesteps": 1500
+      },
+      {
+        "beta": 0.25,
+        "cumulative_dagger_timesteps": 4500,
+        "evaluation_episodes": 20,
+        "evaluation_seed": 40000,
+        "learner_episode_returns": [
+          500.0,
+          500.0,
+          500.0,
+          500.0,
+          500.0,
+          500.0,
+          500.0,
+          500.0,
+          500.0,
+          500.0,
+          500.0,
+          500.0,
+          500.0,
+          500.0,
+          500.0,
+          500.0,
+          500.0,
+          500.0,
+          500.0,
+          500.0
+        ],
+        "learner_mean_return": 500.0,
+        "learner_return_std": 0.0,
+        "round": 2,
+        "round_timesteps": 1500
+      },
+      {
+        "beta": 0.125,
+        "cumulative_dagger_timesteps": 6000,
+        "evaluation_episodes": 20,
+        "evaluation_seed": 40000,
+        "learner_episode_returns": [
+          500.0,
+          500.0,
+          500.0,
+          500.0,
+          500.0,
+          500.0,
+          500.0,
+          500.0,
+          500.0,
+          500.0,
+          500.0,
+          500.0,
+          500.0,
+          500.0,
+          500.0,
+          500.0,
+          500.0,
+          500.0,
+          500.0,
+          500.0
+        ],
+        "learner_mean_return": 500.0,
+        "learner_return_std": 0.0,
+        "round": 3,
+        "round_timesteps": 1500
+      },
+      {
+        "beta": 0.0625,
+        "cumulative_dagger_timesteps": 7500,
+        "evaluation_episodes": 20,
+        "evaluation_seed": 40000,
+        "learner_episode_returns": [
+          500.0,
+          500.0,
+          500.0,
+          500.0,
+          500.0,
+          500.0,
+          500.0,
+          500.0,
+          500.0,
+          500.0,
+          500.0,
+          500.0,
+          500.0,
+          500.0,
+          500.0,
+          500.0,
+          500.0,
+          500.0,
+          500.0,
+          500.0
+        ],
+        "learner_mean_return": 500.0,
+        "learner_return_std": 0.0,
+        "round": 4,
+        "round_timesteps": 1500
+      },
+      {
+        "beta": 0.03125,
+        "cumulative_dagger_timesteps": 9000,
+        "evaluation_episodes": 20,
+        "evaluation_seed": 40000,
+        "learner_episode_returns": [
+          500.0,
+          500.0,
+          500.0,
+          500.0,
+          500.0,
+          500.0,
+          500.0,
+          500.0,
+          500.0,
+          500.0,
+          500.0,
+          500.0,
+          500.0,
+          500.0,
+          500.0,
+          500.0,
+          500.0,
+          500.0,
+          500.0,
+          500.0
+        ],
+        "learner_mean_return": 500.0,
+        "learner_return_std": 0.0,
+        "round": 5,
+        "round_timesteps": 1500
+      }
+    ]
+  },
+  "derived_seeds": {
+    "dagger_evaluation": 30000,
+    "dagger_round_evaluation": 40000,
+    "dagger_training": 20000,
+    "ppo_evaluation": 10000,
+    "ppo_training": 0
+  },
+  "environment": "CartPole-v1",
+  "evaluation_episodes": 20,
+  "evaluation_protocol": {
+    "common_expert_evaluation_seed_across_training_seeds": 10000,
+    "common_final_evaluation_seed_across_training_seeds": 30000,
+    "common_round_evaluation_seed_across_rounds_and_training_seeds": 40000,
+    "deterministic_actions": true,
+    "note": "A fresh environment is reconstructed from the same seed for every checkpoint, so all checkpoints face the same deterministic sequence of initial conditions."
+  },
+  "expert": {
+    "actual_training_timesteps": 51200,
+    "algorithm": "PPO",
+    "evaluation_episode_rewards": [
+      500.0,
+      500.0,
+      500.0,
+      500.0,
+      500.0,
+      500.0,
+      500.0,
+      500.0,
+      500.0,
+      500.0,
+      500.0,
+      500.0,
+      500.0,
+      500.0,
+      500.0,
+      500.0,
+      500.0,
+      500.0,
+      500.0,
+      500.0
+    ],
+    "mean_reward": 500.0,
+    "model": "expert/ppo_cartpole_expert.zip",
+    "requested_training_timesteps": 50000,
+    "reward_standard_deviation": 0.0
+  },
+  "seed": 0,
+  "versions": {
+    "gymnasium": "0.29.1",
+    "imitation": "1.0.1",
+    "numpy": "1.26.4",
+    "stable_baselines3": "2.2.1",
+    "torch": "2.2.2+cpu"
+  }
+}
+Persistent run artifacts: /home/rakibul/Desktop/rl project/Final Project/imitation_library_cartpole/outputs/multiseed_fixed_eval_v1/runs/seed_0

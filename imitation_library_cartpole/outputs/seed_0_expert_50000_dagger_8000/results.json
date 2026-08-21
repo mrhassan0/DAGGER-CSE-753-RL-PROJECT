@@ -1,0 +1,56 @@
+{
+  "dagger": {
+    "beta_decay": 0.5,
+    "beta_schedule": "exponential",
+    "demonstration_directories": [
+      "dagger/demos/round-000/dagger-demo-0-7171495c1fe54d058e114cf7e6adb892.npz",
+      "dagger/demos/round-000/dagger-demo-0-c64aaa8d22a1411490ae662f76f50ee0.npz",
+      "dagger/demos/round-000/dagger-demo-0-d73a47c634cd497fbba258538b53986f.npz",
+      "dagger/demos/round-001/dagger-demo-0-c0856b8a771d412c9f069d0616f527c0.npz",
+      "dagger/demos/round-001/dagger-demo-0-c448eb08f61540e2b8a24cc6d9ea3578.npz",
+      "dagger/demos/round-001/dagger-demo-0-e463120e26a64a4391293c914fe5ad4f.npz",
+      "dagger/demos/round-002/dagger-demo-0-03035beb5f4644758e42022ff34237a4.npz",
+      "dagger/demos/round-002/dagger-demo-0-4ed3512adb4140ad899c5c40e8b45e66.npz",
+      "dagger/demos/round-002/dagger-demo-0-d7903b5bbaf74b00bbc0f480b96b8d76.npz",
+      "dagger/demos/round-003/dagger-demo-0-3087ada5cb7a41b2afc269fd03cb80ad.npz",
+      "dagger/demos/round-003/dagger-demo-0-429fcd9dfdc84ec68db44ffe984fbbb5.npz",
+      "dagger/demos/round-003/dagger-demo-0-bdc1a50fcd6a4ebe97d751358f0b262c.npz",
+      "dagger/demos/round-004/dagger-demo-0-2a24df1b61f64342b51a8653b4b10a84.npz",
+      "dagger/demos/round-004/dagger-demo-0-68f2ae3c168f4efabba4e0a2fe7851f4.npz",
+      "dagger/demos/round-004/dagger-demo-0-94b2db8b3bc54dfc839409f108fa3708.npz",
+      "dagger/demos/round-005/dagger-demo-0-343f16cff6cf48e9865f9a4c545f1263.npz",
+      "dagger/demos/round-005/dagger-demo-0-6a2a4a371a0c4c8e853637f4c660ee15.npz",
+      "dagger/demos/round-005/dagger-demo-0-bba6adc90bfd41f18a25c7628e65be42.npz"
+    ],
+    "demonstration_timesteps": 9000,
+    "demonstration_trajectory_count": 18,
+    "implementation": "imitation.algorithms.dagger.SimpleDAggerTrainer",
+    "mean_reward": 500.0,
+    "policy_state_dict": "dagger/dagger_policy_state_dict.pt",
+    "reward_standard_deviation": 0.0,
+    "training_timesteps": 8000
+  },
+  "derived_seeds": {
+    "dagger_evaluation": 30000,
+    "dagger_training": 20000,
+    "ppo_evaluation": 10000,
+    "ppo_training": 0
+  },
+  "environment": "CartPole-v1",
+  "evaluation_episodes": 20,
+  "expert": {
+    "algorithm": "PPO",
+    "mean_reward": 500.0,
+    "model": "expert/ppo_cartpole_expert.zip",
+    "reward_standard_deviation": 0.0,
+    "training_timesteps": 50000
+  },
+  "seed": 0,
+  "versions": {
+    "gymnasium": "0.29.1",
+    "imitation": "1.0.1",
+    "numpy": "1.26.4",
+    "stable_baselines3": "2.2.1",
+    "torch": "2.2.2+cpu"
+  }
+}

@@ -1,0 +1,6 @@
+training_seed,ppo_expert_mean_return,ppo_expert_within_seed_episode_std,final_dagger_mean_return,final_dagger_within_seed_episode_std,ppo_actual_training_timesteps,dagger_actual_demonstration_timesteps
+0,500.0,0.0,500.0,0.0,51200,9000
+1,500.0,0.0,500.0,0.0,51200,9000
+2,500.0,0.0,500.0,0.0,51200,9000
+3,500.0,0.0,500.0,0.0,51200,9000
+4,500.0,0.0,500.0,0.0,51200,9000

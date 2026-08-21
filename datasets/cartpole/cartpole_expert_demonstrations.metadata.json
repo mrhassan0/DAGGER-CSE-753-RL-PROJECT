@@ -1,0 +1,29 @@
+{
+  "backend": "gymnasium",
+  "base_seed": 0,
+  "episode_length": {
+    "maximum": 500,
+    "mean": 500,
+    "minimum": 500,
+    "solved_500_steps": 100
+  },
+  "episodes": 100,
+  "expert_action_counts": {
+    "push_left_0": 25007,
+    "push_right_1": 24993
+  },
+  "expert_policy": "1[theta + 0.6*theta_dot + 0.02*x_dot > 0]",
+  "initial_state_distribution": "uniform(-0.05, 0.05)^4",
+  "maximum_episode_steps": 500,
+  "requested_backend": "gymnasium",
+  "schema_version": 1,
+  "sha256": "d2fb810a58850fe5af3983bccd39e6bb55fb1e591a013b6b7505947d3bd838a7",
+  "state_order": [
+    "cart_position",
+    "cart_velocity",
+    "pole_angle",
+    "pole_angular_velocity"
+  ],
+  "task": "CartPole-v1",
+  "transitions": 50000
+}
